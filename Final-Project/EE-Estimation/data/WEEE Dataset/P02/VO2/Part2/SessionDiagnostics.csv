@@ -1,0 +1,405 @@
+Time[s],Type[type],Value[value],Details
+-165.8,DeviceError,168,Error Code: 168
+-165.3,DeviceError,168,Error Code: 168
+-165.3,DeviceError,168,Error Code: 168
+-165.3,DeviceError,168,Error Code: 168
+-165.2,DeviceError,168,Error Code: 168
+-150.4,DeviceError,56,Breathing less than valve trigger.
+-138.5,DeviceError,197,Error Code: 197
+-128.2,DeviceError,192,Error Code: 192
+-128.1,DeviceError,192,Error Code: 192
+-125.3,DeviceError,192,Error Code: 192
+-125,DeviceError,192,Error Code: 192
+-124.3,DeviceError,192,Error Code: 192
+-124,DeviceError,192,Error Code: 192
+-120.9,DeviceError,192,Error Code: 192
+-120.1,DeviceError,192,Error Code: 192
+-119.4,DeviceError,192,Error Code: 192
+-119.4,DeviceError,192,Error Code: 192
+-82.3,DeviceError,168,Error Code: 168
+-81.7,DeviceError,53,User piece too big.
+-81.7,DeviceError,197,Error Code: 197
+-78.9,DeviceError,197,Error Code: 197
+-76.5,DeviceError,197,Error Code: 197
+-73.1,DeviceError,53,User piece too big.
+-73.1,DeviceError,197,Error Code: 197
+-67.5,DeviceError,197,Error Code: 197
+-63.1,DeviceError,197,Error Code: 197
+-60,DeviceError,53,User piece too big.
+-60,DeviceError,197,Error Code: 197
+-54.2,DeviceError,64,Ventilation out of range.
+-48.6,DeviceError,197,Error Code: 197
+-42.3,DeviceError,53,User piece too big.
+-42.3,DeviceError,197,Error Code: 197
+-39.4,DeviceError,197,Error Code: 197
+-31.3,DeviceError,64,Ventilation out of range.
+-27.3,DeviceError,53,User piece too big.
+-27.3,DeviceError,197,Error Code: 197
+-23.2,DeviceError,197,Error Code: 197
+-18.3,DeviceError,197,Error Code: 197
+-8.9,DeviceError,167,Error Code: 167
+0,SessionRecording,0,
+5,DeviceError,167,Error Code: 167
+10.1,DeviceError,167,Error Code: 167
+20.1,DeviceError,149,Error Code: 149
+50.2,SessionPause,60,
+50.2,SessionRecording,73,
+51.6,DeviceError,167,Error Code: 167
+52.7,DeviceError,168,Error Code: 168
+56.8,DeviceError,167,Error Code: 167
+57.9,DeviceError,168,Error Code: 168
+58.7,DeviceError,167,Error Code: 167
+58.7,DeviceError,184,Error Code: 184
+60.5,DeviceError,167,Error Code: 167
+80.9,DeviceError,168,Error Code: 168
+90.6,DeviceError,120,Calibration: waiting for user to start breathing.
+133.2,DeviceError,167,Error Code: 167
+159.5,DeviceError,122,Breath rejected; segment too short.
+220.8,DeviceError,190,Error Code: 190
+220.8,DeviceError,191,Error Code: 191
+223.4,DeviceError,167,Error Code: 167
+224.7,DeviceError,121,Breath rejected; too jittery.
+230.9,SessionPause,254,
+230.9,DeviceError,125,Breath rejected; Rf out of range.
+230.9,SessionRecording,256,
+236.7,DeviceError,125,Breath rejected; Rf out of range.
+239.2,SessionPause,264,
+239.2,DeviceError,167,Error Code: 167
+239.2,DeviceError,167,Error Code: 167
+239.2,DeviceError,168,Error Code: 168
+239.2,DeviceError,121,Breath rejected; too jittery.
+239.2,DeviceError,53,User piece too big.
+239.2,DeviceError,125,Breath rejected; Rf out of range.
+239.2,DeviceError,64,Ventilation out of range.
+239.2,DeviceError,168,Error Code: 168
+239.2,DeviceError,168,Error Code: 168
+239.2,DeviceError,168,Error Code: 168
+239.2,DeviceError,168,Error Code: 168
+239.2,DeviceError,167,Error Code: 167
+239.2,DeviceError,125,Breath rejected; Rf out of range.
+239.2,DeviceError,168,Error Code: 168
+239.2,DeviceError,168,Error Code: 168
+239.2,DeviceError,121,Breath rejected; too jittery.
+239.2,SessionRecording,314,
+250.3,DeviceError,168,Error Code: 168
+250.4,DeviceError,168,Error Code: 168
+250.4,DeviceError,168,Error Code: 168
+250.6,DeviceError,168,Error Code: 168
+251.5,DeviceError,53,User piece too big.
+256.5,DeviceError,167,Error Code: 167
+259.1,DeviceError,73,Error Code: 73
+268.9,DeviceError,53,User piece too big.
+268.9,DeviceError,64,Ventilation out of range.
+283.5,DeviceError,53,User piece too big.
+283.5,DeviceError,125,Breath rejected; Rf out of range.
+287.1,DeviceError,167,Error Code: 167
+291.2,DeviceError,125,Breath rejected; Rf out of range.
+293.2,DeviceError,168,Error Code: 168
+293.3,DeviceError,168,Error Code: 168
+293.6,DeviceError,168,Error Code: 168
+293.8,DeviceError,168,Error Code: 168
+294.7,DeviceError,168,Error Code: 168
+298.5,DeviceError,167,Error Code: 167
+302.1,DeviceError,125,Breath rejected; Rf out of range.
+308.1,DeviceError,167,Error Code: 167
+309.6,DeviceError,167,Error Code: 167
+311,DeviceError,53,User piece too big.
+312,DeviceError,64,Ventilation out of range.
+323.1,DeviceError,53,User piece too big.
+325.5,DeviceError,209,Error Code: 209
+327.4,DeviceError,191,Error Code: 191
+330.6,DeviceError,167,Error Code: 167
+335,DeviceError,64,Ventilation out of range.
+336.5,DeviceError,167,Error Code: 167
+338.1,DeviceError,167,Error Code: 167
+341.6,DeviceError,167,Error Code: 167
+342,DeviceError,167,Error Code: 167
+344.3,DeviceError,192,Error Code: 192
+344.4,DeviceError,192,Error Code: 192
+344.4,DeviceError,168,Error Code: 168
+344.9,DeviceError,192,Error Code: 192
+346.6,DeviceError,184,Error Code: 184
+346.6,DeviceError,53,User piece too big.
+347.7,DeviceError,167,Error Code: 167
+360.9,DeviceError,53,User piece too big.
+372.4,DeviceError,167,Error Code: 167
+376.7,DeviceError,167,Error Code: 167
+376.7,DeviceError,184,Error Code: 184
+377.9,DeviceError,167,Error Code: 167
+377.9,DeviceError,192,Error Code: 192
+379,DeviceError,167,Error Code: 167
+381.4,DeviceError,53,User piece too big.
+381.4,DeviceError,191,Error Code: 191
+394,DeviceError,53,User piece too big.
+396.3,DeviceError,167,Error Code: 167
+398.5,DeviceError,168,Error Code: 168
+398.6,DeviceError,168,Error Code: 168
+402.7,DeviceError,168,Error Code: 168
+404.4,DeviceError,125,Breath rejected; Rf out of range.
+408.3,DeviceError,167,Error Code: 167
+409.6,DeviceError,64,Ventilation out of range.
+410.4,DeviceError,209,Error Code: 209
+414.2,DeviceError,167,Error Code: 167
+415.9,DeviceError,168,Error Code: 168
+416,DeviceError,168,Error Code: 168
+419.3,DeviceError,191,Error Code: 191
+432.9,DeviceError,53,User piece too big.
+433.7,DeviceError,125,Breath rejected; Rf out of range.
+435.6,DeviceError,168,Error Code: 168
+437.2,DeviceError,168,Error Code: 168
+445.8,DeviceError,53,User piece too big.
+464.8,DeviceError,53,User piece too big.
+472.8,DeviceError,53,User piece too big.
+484.1,DeviceError,53,User piece too big.
+489.3,DeviceError,167,Error Code: 167
+501.3,DeviceError,53,User piece too big.
+509,DeviceError,167,Error Code: 167
+513.6,DeviceError,64,Ventilation out of range.
+514.3,DeviceError,53,User piece too big.
+525.1,DeviceError,209,Error Code: 209
+525.4,DeviceError,209,Error Code: 209
+526.5,DeviceError,168,Error Code: 168
+526.6,DeviceError,168,Error Code: 168
+526.7,DeviceError,168,Error Code: 168
+527.2,DeviceError,191,Error Code: 191
+528,DeviceError,168,Error Code: 168
+528,DeviceError,168,Error Code: 168
+528.2,DeviceError,168,Error Code: 168
+528.3,DeviceError,168,Error Code: 168
+528.4,DeviceError,168,Error Code: 168
+528.4,DeviceError,168,Error Code: 168
+528.5,DeviceError,168,Error Code: 168
+528.6,DeviceError,168,Error Code: 168
+528.8,DeviceError,168,Error Code: 168
+529,DeviceError,209,Error Code: 209
+529.8,DeviceError,168,Error Code: 168
+529.9,DeviceError,168,Error Code: 168
+529.9,DeviceError,168,Error Code: 168
+530.2,DeviceError,168,Error Code: 168
+530.5,DeviceError,168,Error Code: 168
+530.6,DeviceError,168,Error Code: 168
+530.6,DeviceError,168,Error Code: 168
+530.7,DeviceError,168,Error Code: 168
+530.8,DeviceError,168,Error Code: 168
+530.9,DeviceError,168,Error Code: 168
+531,DeviceError,168,Error Code: 168
+532.6,DeviceError,191,Error Code: 191
+533,DeviceError,209,Error Code: 209
+533.2,DeviceError,209,Error Code: 209
+533.3,DeviceError,209,Error Code: 209
+535.1,DeviceError,168,Error Code: 168
+535.1,DeviceError,168,Error Code: 168
+537.8,DeviceError,167,Error Code: 167
+540.9,DeviceError,167,Error Code: 167
+541.1,DeviceError,191,Error Code: 191
+547.4,DeviceError,168,Error Code: 168
+551.8,DeviceError,209,Error Code: 209
+554.9,DeviceError,167,Error Code: 167
+555.6,DeviceError,73,Error Code: 73
+557,DeviceError,168,Error Code: 168
+557.3,DeviceError,168,Error Code: 168
+564.7,DeviceError,167,Error Code: 167
+566.3,DeviceError,209,Error Code: 209
+568.2,DeviceError,64,Ventilation out of range.
+568.3,DeviceError,168,Error Code: 168
+568.6,DeviceError,168,Error Code: 168
+568.6,DeviceError,168,Error Code: 168
+568.7,DeviceError,168,Error Code: 168
+568.8,DeviceError,168,Error Code: 168
+569.1,DeviceError,168,Error Code: 168
+569.1,DeviceError,168,Error Code: 168
+569.1,DeviceError,168,Error Code: 168
+569.2,DeviceError,168,Error Code: 168
+569.6,DeviceError,168,Error Code: 168
+569.7,DeviceError,168,Error Code: 168
+569.8,DeviceError,168,Error Code: 168
+569.8,DeviceError,168,Error Code: 168
+569.9,DeviceError,168,Error Code: 168
+570.1,DeviceError,168,Error Code: 168
+570.9,SessionPause,645,
+570.9,DeviceError,121,Breath rejected; too jittery.
+570.9,SessionRecording,647,
+578.5,DeviceError,167,Error Code: 167
+579.5,DeviceError,167,Error Code: 167
+581.4,DeviceError,125,Breath rejected; Rf out of range.
+587.1,DeviceError,168,Error Code: 168
+588,DeviceError,168,Error Code: 168
+588.2,DeviceError,168,Error Code: 168
+588.3,DeviceError,168,Error Code: 168
+592,DeviceError,168,Error Code: 168
+592.3,DeviceError,168,Error Code: 168
+592.5,DeviceError,168,Error Code: 168
+592.7,DeviceError,168,Error Code: 168
+592.7,DeviceError,168,Error Code: 168
+592.7,DeviceError,168,Error Code: 168
+593,DeviceError,168,Error Code: 168
+593.5,DeviceError,168,Error Code: 168
+594.4,DeviceError,121,Breath rejected; too jittery.
+598.2,DeviceError,168,Error Code: 168
+598.3,DeviceError,168,Error Code: 168
+598.4,DeviceError,168,Error Code: 168
+599,DeviceError,121,Breath rejected; too jittery.
+602.5,DeviceError,53,User piece too big.
+611,DeviceError,53,User piece too big.
+620.5,DeviceError,53,User piece too big.
+620.6,DeviceError,64,Ventilation out of range.
+631.2,DeviceError,167,Error Code: 167
+631.5,DeviceError,209,Error Code: 209
+631.5,DeviceError,209,Error Code: 209
+632.3,DeviceError,168,Error Code: 168
+634,DeviceError,167,Error Code: 167
+638.9,DeviceError,168,Error Code: 168
+639.1,DeviceError,168,Error Code: 168
+639.5,DeviceError,168,Error Code: 168
+640,DeviceError,121,Breath rejected; too jittery.
+640.5,DeviceError,209,Error Code: 209
+640.7,DeviceError,209,Error Code: 209
+641.8,DeviceError,168,Error Code: 168
+642,DeviceError,168,Error Code: 168
+642.2,DeviceError,168,Error Code: 168
+642.5,DeviceError,168,Error Code: 168
+642.7,DeviceError,168,Error Code: 168
+642.8,DeviceError,168,Error Code: 168
+642.8,DeviceError,168,Error Code: 168
+643.2,DeviceError,168,Error Code: 168
+643.4,DeviceError,121,Breath rejected; too jittery.
+644.7,DeviceError,209,Error Code: 209
+644.8,DeviceError,168,Error Code: 168
+644.9,DeviceError,168,Error Code: 168
+647.8,DeviceError,191,Error Code: 191
+661.4,DeviceError,167,Error Code: 167
+662.8,DeviceError,53,User piece too big.
+664.3,DeviceError,125,Breath rejected; Rf out of range.
+667,DeviceError,209,Error Code: 209
+670.1,DeviceError,168,Error Code: 168
+670.1,DeviceError,168,Error Code: 168
+670.9,DeviceError,168,Error Code: 168
+671.1,DeviceError,168,Error Code: 168
+671.2,DeviceError,168,Error Code: 168
+671.2,DeviceError,168,Error Code: 168
+671.6,DeviceError,168,Error Code: 168
+671.6,DeviceError,168,Error Code: 168
+671.7,DeviceError,168,Error Code: 168
+671.7,DeviceError,168,Error Code: 168
+671.8,DeviceError,168,Error Code: 168
+672,DeviceError,168,Error Code: 168
+672,DeviceError,168,Error Code: 168
+672.1,DeviceError,168,Error Code: 168
+672.1,DeviceError,168,Error Code: 168
+673.8,DeviceError,125,Breath rejected; Rf out of range.
+674.1,DeviceError,209,Error Code: 209
+676.5,DeviceError,121,Breath rejected; too jittery.
+679.6,DeviceError,209,Error Code: 209
+679.7,DeviceError,209,Error Code: 209
+680.5,DeviceError,191,Error Code: 191
+693,DeviceError,167,Error Code: 167
+694.7,DeviceError,53,User piece too big.
+700.6,DeviceError,168,Error Code: 168
+700.6,DeviceError,168,Error Code: 168
+700.7,DeviceError,168,Error Code: 168
+701,DeviceError,168,Error Code: 168
+701.2,DeviceError,168,Error Code: 168
+703.2,DeviceError,168,Error Code: 168
+703.4,DeviceError,168,Error Code: 168
+703.6,DeviceError,168,Error Code: 168
+703.6,DeviceError,168,Error Code: 168
+704.1,DeviceError,168,Error Code: 168
+704.1,DeviceError,168,Error Code: 168
+704.9,DeviceError,121,Breath rejected; too jittery.
+711.4,DeviceError,125,Breath rejected; Rf out of range.
+716.5,DeviceError,209,Error Code: 209
+716.9,DeviceError,168,Error Code: 168
+717.2,DeviceError,168,Error Code: 168
+717.9,DeviceError,168,Error Code: 168
+718.1,DeviceError,168,Error Code: 168
+718.4,DeviceError,168,Error Code: 168
+719.8,DeviceError,53,User piece too big.
+719.8,DeviceError,121,Breath rejected; too jittery.
+726.4,DeviceError,125,Breath rejected; Rf out of range.
+736,DeviceError,167,Error Code: 167
+741.6,DeviceError,53,User piece too big.
+748.8,DeviceError,167,Error Code: 167
+750.6,DeviceError,125,Breath rejected; Rf out of range.
+757,DeviceError,53,User piece too big.
+758.5,DeviceError,209,Error Code: 209
+768.4,DeviceError,53,User piece too big.
+773.2,DeviceError,168,Error Code: 168
+773.3,DeviceError,168,Error Code: 168
+773.7,DeviceError,168,Error Code: 168
+774.6,DeviceError,121,Breath rejected; too jittery.
+777.1,DeviceError,53,User piece too big.
+788.1,DeviceError,53,User piece too big.
+797.9,DeviceError,53,User piece too big.
+807.8,DeviceError,53,User piece too big.
+813.6,DeviceError,167,Error Code: 167
+816.9,DeviceError,64,Ventilation out of range.
+817.9,DeviceError,53,User piece too big.
+826.1,DeviceError,53,User piece too big.
+828.6,DeviceError,167,Error Code: 167
+836.1,DeviceError,53,User piece too big.
+839.8,DeviceError,64,Ventilation out of range.
+841.8,SessionPause,918,
+841.8,DeviceError,53,User piece too big.
+841.8,DeviceError,167,Error Code: 167
+841.8,DeviceError,64,Ventilation out of range.
+841.8,DeviceError,167,Error Code: 167
+841.8,DeviceError,167,Error Code: 167
+841.8,DeviceError,125,Breath rejected; Rf out of range.
+841.8,DeviceError,168,Error Code: 168
+841.8,DeviceError,121,Breath rejected; too jittery.
+841.8,DeviceError,168,Error Code: 168
+841.8,DeviceError,168,Error Code: 168
+841.8,DeviceError,53,User piece too big.
+841.8,DeviceError,121,Breath rejected; too jittery.
+841.8,SessionRecording,954,
+847.5,DeviceError,168,Error Code: 168
+847.6,DeviceError,168,Error Code: 168
+847.8,DeviceError,168,Error Code: 168
+848,DeviceError,168,Error Code: 168
+848,DeviceError,168,Error Code: 168
+848.1,DeviceError,168,Error Code: 168
+848.3,DeviceError,168,Error Code: 168
+848.3,DeviceError,168,Error Code: 168
+849.9,DeviceError,121,Breath rejected; too jittery.
+852.9,DeviceError,125,Breath rejected; Rf out of range.
+858.9,DeviceError,197,Error Code: 197
+862.4,DeviceError,168,Error Code: 168
+863.7,DeviceError,121,Breath rejected; too jittery.
+871.9,DeviceError,209,Error Code: 209
+873,DeviceError,168,Error Code: 168
+873.7,DeviceError,53,User piece too big.
+873.7,DeviceError,191,Error Code: 191
+893.4,DeviceError,209,Error Code: 209
+897,DeviceError,167,Error Code: 167
+897.3,DeviceError,121,Breath rejected; too jittery.
+931.4,DeviceError,121,Breath rejected; too jittery.
+990.1,DeviceError,168,Error Code: 168
+991,DeviceError,168,Error Code: 168
+1017,DeviceError,209,Error Code: 209
+1019.2,DeviceError,167,Error Code: 167
+1020.2,DeviceError,121,Breath rejected; too jittery.
+1048.4,DeviceError,197,Error Code: 197
+1051.9,DeviceError,209,Error Code: 209
+1054.1,DeviceError,191,Error Code: 191
+1069.4,DeviceError,209,Error Code: 209
+1134.6,SessionPause,1246,
+1134.6,SessionRecording,1248,
+1161.4,DeviceError,121,Breath rejected; too jittery.
+1252.3,DeviceError,197,Error Code: 197
+1290,DeviceError,209,Error Code: 209
+1290.7,DeviceError,197,Error Code: 197
+1295.8,DeviceError,167,Error Code: 167
+1347,DeviceError,209,Error Code: 209
+1348.3,DeviceError,168,Error Code: 168
+1349,DeviceError,121,Breath rejected; too jittery.
+1360.3,DeviceError,197,Error Code: 197
+1380.3,DeviceError,209,Error Code: 209
+1418,DeviceError,168,Error Code: 168
+1418.2,DeviceError,168,Error Code: 168
+1418.8,DeviceError,168,Error Code: 168
+1419.7,DeviceError,121,Breath rejected; too jittery.
+1478,DeviceError,168,Error Code: 168
+1478.2,DeviceError,209,Error Code: 209
+1478.3,DeviceError,209,Error Code: 209
+1479.7,DeviceError,191,Error Code: 191
+1598.6,SessionComplete,0,

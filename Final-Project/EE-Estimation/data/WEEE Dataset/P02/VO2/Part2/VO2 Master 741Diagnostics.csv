@@ -1,0 +1,391 @@
+Time[s],Error[code],Description
+-165.8,168,Error Code: 168
+-165.3,168,Error Code: 168
+-165.3,168,Error Code: 168
+-165.3,168,Error Code: 168
+-165.2,168,Error Code: 168
+-150.4,56,Breathing less than valve trigger.
+-138.5,197,Error Code: 197
+-128.2,192,Error Code: 192
+-128.1,192,Error Code: 192
+-125.3,192,Error Code: 192
+-125,192,Error Code: 192
+-124.3,192,Error Code: 192
+-124,192,Error Code: 192
+-120.9,192,Error Code: 192
+-120.1,192,Error Code: 192
+-119.4,192,Error Code: 192
+-119.4,192,Error Code: 192
+-82.3,168,Error Code: 168
+-81.7,53,User piece too big.
+-81.7,197,Error Code: 197
+-78.9,197,Error Code: 197
+-76.5,197,Error Code: 197
+-73.1,53,User piece too big.
+-73.1,197,Error Code: 197
+-67.5,197,Error Code: 197
+-63.1,197,Error Code: 197
+-60,53,User piece too big.
+-60,197,Error Code: 197
+-54.2,64,Ventilation out of range.
+-48.6,197,Error Code: 197
+-42.3,53,User piece too big.
+-42.3,197,Error Code: 197
+-39.4,197,Error Code: 197
+-31.3,64,Ventilation out of range.
+-27.3,53,User piece too big.
+-27.3,197,Error Code: 197
+-23.2,197,Error Code: 197
+-18.3,197,Error Code: 197
+-8.9,167,Error Code: 167
+5,167,Error Code: 167
+10.1,167,Error Code: 167
+20.1,149,Error Code: 149
+51.6,167,Error Code: 167
+52.7,168,Error Code: 168
+56.8,167,Error Code: 167
+57.9,168,Error Code: 168
+58.7,167,Error Code: 167
+58.7,184,Error Code: 184
+60.5,167,Error Code: 167
+80.9,168,Error Code: 168
+90.6,120,Calibration: waiting for user to start breathing.
+133.2,167,Error Code: 167
+159.5,122,Breath rejected; segment too short.
+220.8,190,Error Code: 190
+220.8,191,Error Code: 191
+223.4,167,Error Code: 167
+224.7,121,Breath rejected; too jittery.
+230.9,125,Breath rejected; Rf out of range.
+236.7,125,Breath rejected; Rf out of range.
+239.2,167,Error Code: 167
+239.2,167,Error Code: 167
+239.2,168,Error Code: 168
+239.2,121,Breath rejected; too jittery.
+239.2,53,User piece too big.
+239.2,125,Breath rejected; Rf out of range.
+239.2,64,Ventilation out of range.
+239.2,168,Error Code: 168
+239.2,168,Error Code: 168
+239.2,168,Error Code: 168
+239.2,168,Error Code: 168
+239.2,167,Error Code: 167
+239.2,125,Breath rejected; Rf out of range.
+239.2,168,Error Code: 168
+239.2,168,Error Code: 168
+239.2,121,Breath rejected; too jittery.
+250.3,168,Error Code: 168
+250.4,168,Error Code: 168
+250.4,168,Error Code: 168
+250.6,168,Error Code: 168
+251.5,53,User piece too big.
+256.5,167,Error Code: 167
+259.1,73,Error Code: 73
+268.9,53,User piece too big.
+268.9,64,Ventilation out of range.
+283.5,53,User piece too big.
+283.5,125,Breath rejected; Rf out of range.
+287.1,167,Error Code: 167
+291.2,125,Breath rejected; Rf out of range.
+293.2,168,Error Code: 168
+293.3,168,Error Code: 168
+293.6,168,Error Code: 168
+293.8,168,Error Code: 168
+294.7,168,Error Code: 168
+298.5,167,Error Code: 167
+302.1,125,Breath rejected; Rf out of range.
+308.1,167,Error Code: 167
+309.6,167,Error Code: 167
+311,53,User piece too big.
+312,64,Ventilation out of range.
+323.1,53,User piece too big.
+325.5,209,Error Code: 209
+327.4,191,Error Code: 191
+330.6,167,Error Code: 167
+335,64,Ventilation out of range.
+336.5,167,Error Code: 167
+338.1,167,Error Code: 167
+341.6,167,Error Code: 167
+342,167,Error Code: 167
+344.3,192,Error Code: 192
+344.4,192,Error Code: 192
+344.4,168,Error Code: 168
+344.9,192,Error Code: 192
+346.6,184,Error Code: 184
+346.6,53,User piece too big.
+347.7,167,Error Code: 167
+360.9,53,User piece too big.
+372.4,167,Error Code: 167
+376.7,167,Error Code: 167
+376.7,184,Error Code: 184
+377.9,167,Error Code: 167
+377.9,192,Error Code: 192
+379,167,Error Code: 167
+381.4,53,User piece too big.
+381.4,191,Error Code: 191
+394,53,User piece too big.
+396.3,167,Error Code: 167
+398.5,168,Error Code: 168
+398.6,168,Error Code: 168
+402.7,168,Error Code: 168
+404.4,125,Breath rejected; Rf out of range.
+408.3,167,Error Code: 167
+409.6,64,Ventilation out of range.
+410.4,209,Error Code: 209
+414.2,167,Error Code: 167
+415.9,168,Error Code: 168
+416,168,Error Code: 168
+419.3,191,Error Code: 191
+432.9,53,User piece too big.
+433.7,125,Breath rejected; Rf out of range.
+435.6,168,Error Code: 168
+437.2,168,Error Code: 168
+445.8,53,User piece too big.
+464.8,53,User piece too big.
+472.8,53,User piece too big.
+484.1,53,User piece too big.
+489.3,167,Error Code: 167
+501.3,53,User piece too big.
+509,167,Error Code: 167
+513.6,64,Ventilation out of range.
+514.3,53,User piece too big.
+525.1,209,Error Code: 209
+525.4,209,Error Code: 209
+526.5,168,Error Code: 168
+526.6,168,Error Code: 168
+526.7,168,Error Code: 168
+527.2,191,Error Code: 191
+528,168,Error Code: 168
+528,168,Error Code: 168
+528.2,168,Error Code: 168
+528.3,168,Error Code: 168
+528.4,168,Error Code: 168
+528.4,168,Error Code: 168
+528.5,168,Error Code: 168
+528.6,168,Error Code: 168
+528.8,168,Error Code: 168
+529,209,Error Code: 209
+529.8,168,Error Code: 168
+529.9,168,Error Code: 168
+529.9,168,Error Code: 168
+530.2,168,Error Code: 168
+530.5,168,Error Code: 168
+530.6,168,Error Code: 168
+530.6,168,Error Code: 168
+530.7,168,Error Code: 168
+530.8,168,Error Code: 168
+530.9,168,Error Code: 168
+531,168,Error Code: 168
+532.6,191,Error Code: 191
+533,209,Error Code: 209
+533.2,209,Error Code: 209
+533.3,209,Error Code: 209
+535.1,168,Error Code: 168
+535.1,168,Error Code: 168
+537.8,167,Error Code: 167
+540.9,167,Error Code: 167
+541.1,191,Error Code: 191
+547.4,168,Error Code: 168
+551.8,209,Error Code: 209
+554.9,167,Error Code: 167
+555.6,73,Error Code: 73
+557,168,Error Code: 168
+557.3,168,Error Code: 168
+564.7,167,Error Code: 167
+566.3,209,Error Code: 209
+568.2,64,Ventilation out of range.
+568.3,168,Error Code: 168
+568.6,168,Error Code: 168
+568.6,168,Error Code: 168
+568.7,168,Error Code: 168
+568.8,168,Error Code: 168
+569.1,168,Error Code: 168
+569.1,168,Error Code: 168
+569.1,168,Error Code: 168
+569.2,168,Error Code: 168
+569.6,168,Error Code: 168
+569.7,168,Error Code: 168
+569.8,168,Error Code: 168
+569.8,168,Error Code: 168
+569.9,168,Error Code: 168
+570.1,168,Error Code: 168
+570.9,121,Breath rejected; too jittery.
+578.5,167,Error Code: 167
+579.5,167,Error Code: 167
+581.4,125,Breath rejected; Rf out of range.
+587.1,168,Error Code: 168
+588,168,Error Code: 168
+588.2,168,Error Code: 168
+588.3,168,Error Code: 168
+592,168,Error Code: 168
+592.3,168,Error Code: 168
+592.5,168,Error Code: 168
+592.7,168,Error Code: 168
+592.7,168,Error Code: 168
+592.7,168,Error Code: 168
+593,168,Error Code: 168
+593.5,168,Error Code: 168
+594.4,121,Breath rejected; too jittery.
+598.2,168,Error Code: 168
+598.3,168,Error Code: 168
+598.4,168,Error Code: 168
+599,121,Breath rejected; too jittery.
+602.5,53,User piece too big.
+611,53,User piece too big.
+620.5,53,User piece too big.
+620.6,64,Ventilation out of range.
+631.2,167,Error Code: 167
+631.5,209,Error Code: 209
+631.5,209,Error Code: 209
+632.3,168,Error Code: 168
+634,167,Error Code: 167
+638.9,168,Error Code: 168
+639.1,168,Error Code: 168
+639.5,168,Error Code: 168
+640,121,Breath rejected; too jittery.
+640.5,209,Error Code: 209
+640.7,209,Error Code: 209
+641.8,168,Error Code: 168
+642,168,Error Code: 168
+642.2,168,Error Code: 168
+642.5,168,Error Code: 168
+642.7,168,Error Code: 168
+642.8,168,Error Code: 168
+642.8,168,Error Code: 168
+643.2,168,Error Code: 168
+643.4,121,Breath rejected; too jittery.
+644.7,209,Error Code: 209
+644.8,168,Error Code: 168
+644.9,168,Error Code: 168
+647.8,191,Error Code: 191
+661.4,167,Error Code: 167
+662.8,53,User piece too big.
+664.3,125,Breath rejected; Rf out of range.
+667,209,Error Code: 209
+670.1,168,Error Code: 168
+670.1,168,Error Code: 168
+670.9,168,Error Code: 168
+671.1,168,Error Code: 168
+671.2,168,Error Code: 168
+671.2,168,Error Code: 168
+671.6,168,Error Code: 168
+671.6,168,Error Code: 168
+671.7,168,Error Code: 168
+671.7,168,Error Code: 168
+671.8,168,Error Code: 168
+672,168,Error Code: 168
+672,168,Error Code: 168
+672.1,168,Error Code: 168
+672.1,168,Error Code: 168
+673.8,125,Breath rejected; Rf out of range.
+674.1,209,Error Code: 209
+676.5,121,Breath rejected; too jittery.
+679.6,209,Error Code: 209
+679.7,209,Error Code: 209
+680.5,191,Error Code: 191
+693,167,Error Code: 167
+694.7,53,User piece too big.
+700.6,168,Error Code: 168
+700.6,168,Error Code: 168
+700.7,168,Error Code: 168
+701,168,Error Code: 168
+701.2,168,Error Code: 168
+703.2,168,Error Code: 168
+703.4,168,Error Code: 168
+703.6,168,Error Code: 168
+703.6,168,Error Code: 168
+704.1,168,Error Code: 168
+704.1,168,Error Code: 168
+704.9,121,Breath rejected; too jittery.
+711.4,125,Breath rejected; Rf out of range.
+716.5,209,Error Code: 209
+716.9,168,Error Code: 168
+717.2,168,Error Code: 168
+717.9,168,Error Code: 168
+718.1,168,Error Code: 168
+718.4,168,Error Code: 168
+719.8,53,User piece too big.
+719.8,121,Breath rejected; too jittery.
+726.4,125,Breath rejected; Rf out of range.
+736,167,Error Code: 167
+741.6,53,User piece too big.
+748.8,167,Error Code: 167
+750.6,125,Breath rejected; Rf out of range.
+757,53,User piece too big.
+758.5,209,Error Code: 209
+768.4,53,User piece too big.
+773.2,168,Error Code: 168
+773.3,168,Error Code: 168
+773.7,168,Error Code: 168
+774.6,121,Breath rejected; too jittery.
+777.1,53,User piece too big.
+788.1,53,User piece too big.
+797.9,53,User piece too big.
+807.8,53,User piece too big.
+813.6,167,Error Code: 167
+816.9,64,Ventilation out of range.
+817.9,53,User piece too big.
+826.1,53,User piece too big.
+828.6,167,Error Code: 167
+836.1,53,User piece too big.
+839.8,64,Ventilation out of range.
+841.8,53,User piece too big.
+841.8,167,Error Code: 167
+841.8,64,Ventilation out of range.
+841.8,167,Error Code: 167
+841.8,167,Error Code: 167
+841.8,125,Breath rejected; Rf out of range.
+841.8,168,Error Code: 168
+841.8,121,Breath rejected; too jittery.
+841.8,168,Error Code: 168
+841.8,168,Error Code: 168
+841.8,53,User piece too big.
+841.8,121,Breath rejected; too jittery.
+847.5,168,Error Code: 168
+847.6,168,Error Code: 168
+847.8,168,Error Code: 168
+848,168,Error Code: 168
+848,168,Error Code: 168
+848.1,168,Error Code: 168
+848.3,168,Error Code: 168
+848.3,168,Error Code: 168
+849.9,121,Breath rejected; too jittery.
+852.9,125,Breath rejected; Rf out of range.
+858.9,197,Error Code: 197
+862.4,168,Error Code: 168
+863.7,121,Breath rejected; too jittery.
+871.9,209,Error Code: 209
+873,168,Error Code: 168
+873.7,53,User piece too big.
+873.7,191,Error Code: 191
+893.4,209,Error Code: 209
+897,167,Error Code: 167
+897.3,121,Breath rejected; too jittery.
+931.4,121,Breath rejected; too jittery.
+990.1,168,Error Code: 168
+991,168,Error Code: 168
+1017,209,Error Code: 209
+1019.2,167,Error Code: 167
+1020.2,121,Breath rejected; too jittery.
+1048.4,197,Error Code: 197
+1051.9,209,Error Code: 209
+1054.1,191,Error Code: 191
+1069.4,209,Error Code: 209
+1161.4,121,Breath rejected; too jittery.
+1252.3,197,Error Code: 197
+1290,209,Error Code: 209
+1290.7,197,Error Code: 197
+1295.8,167,Error Code: 167
+1347,209,Error Code: 209
+1348.3,168,Error Code: 168
+1349,121,Breath rejected; too jittery.
+1360.3,197,Error Code: 197
+1380.3,209,Error Code: 209
+1418,168,Error Code: 168
+1418.2,168,Error Code: 168
+1418.8,168,Error Code: 168
+1419.7,121,Breath rejected; too jittery.
+1478,168,Error Code: 168
+1478.2,209,Error Code: 209
+1478.3,209,Error Code: 209
+1479.7,191,Error Code: 191

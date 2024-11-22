@@ -1,0 +1,279 @@
+Time[s],Error[code],Description
+-179.2,53,User piece too big.
+-171.1,53,User piece too big.
+-164.6,53,User piece too big.
+-150.8,53,User piece too big.
+-136.2,167,Error Code: 167
+-135.6,168,Error Code: 168
+-135.2,168,Error Code: 168
+-135.1,168,Error Code: 168
+-135,168,Error Code: 168
+-134.9,168,Error Code: 168
+-134.8,168,Error Code: 168
+-134.7,168,Error Code: 168
+-134.3,168,Error Code: 168
+-134.3,168,Error Code: 168
+-133.9,168,Error Code: 168
+-133.9,168,Error Code: 168
+-133.4,121,Breath rejected; too jittery.
+-125.1,168,Error Code: 168
+-125.1,168,Error Code: 168
+-124.7,168,Error Code: 168
+-124.7,168,Error Code: 168
+-123.7,53,User piece too big.
+-123.7,121,Breath rejected; too jittery.
+-121.5,120,Calibration: waiting for user to start breathing.
+-106.9,167,Error Code: 167
+-104.6,121,Breath rejected; too jittery.
+-96.4,121,Breath rejected; too jittery.
+-95.3,122,Breath rejected; segment too short.
+-92,167,Error Code: 167
+-84.2,73,Error Code: 73
+-79.2,53,User piece too big.
+-79.2,73,Error Code: 73
+-74.9,167,Error Code: 167
+-74.5,120,Calibration: waiting for user to start breathing.
+-59,167,Error Code: 167
+-59,184,Error Code: 184
+-46.5,73,Error Code: 73
+-40.6,120,Calibration: waiting for user to start breathing.
+-38,167,Error Code: 167
+-32,167,Error Code: 167
+-31.9,73,Error Code: 73
+-19.9,167,Error Code: 167
+-19.9,73,Error Code: 73
+-15.4,167,Error Code: 167
+0,167,Error Code: 167
+0,73,Error Code: 73
+0,167,Error Code: 167
+0,73,Error Code: 73
+0,167,Error Code: 167
+0,73,Error Code: 73
+0,120,Calibration: waiting for user to start breathing.
+0,167,Error Code: 167
+0,53,User piece too big.
+0,121,Breath rejected; too jittery.
+4.3,73,Error Code: 73
+5.3,197,Error Code: 197
+7.9,197,Error Code: 197
+9.1,53,User piece too big.
+9.1,197,Error Code: 197
+12.7,167,Error Code: 167
+16.3,73,Error Code: 73
+36.7,120,Calibration: waiting for user to start breathing.
+43.1,53,User piece too big.
+43.1,73,Error Code: 73
+51.9,167,Error Code: 167
+55.8,73,Error Code: 73
+65.6,167,Error Code: 167
+69,167,Error Code: 167
+71.1,53,User piece too big.
+76.9,120,Calibration: waiting for user to start breathing.
+80.8,167,Error Code: 167
+91,53,User piece too big.
+98.6,167,Error Code: 167
+103.2,168,Error Code: 168
+104,168,Error Code: 168
+104.2,168,Error Code: 168
+104.2,168,Error Code: 168
+106,121,Breath rejected; too jittery.
+109.3,168,Error Code: 168
+109.4,168,Error Code: 168
+109.6,168,Error Code: 168
+110.4,168,Error Code: 168
+110.4,168,Error Code: 168
+110.8,168,Error Code: 168
+111.5,168,Error Code: 168
+114.1,167,Error Code: 167
+114.1,53,User piece too big.
+114.1,121,Breath rejected; too jittery.
+117.9,168,Error Code: 168
+118,168,Error Code: 168
+121,167,Error Code: 167
+121,121,Breath rejected; too jittery.
+127.8,120,Calibration: waiting for user to start breathing.
+132,168,Error Code: 168
+132.1,168,Error Code: 168
+132.5,168,Error Code: 168
+132.6,168,Error Code: 168
+134.5,53,User piece too big.
+134.5,121,Breath rejected; too jittery.
+136.8,167,Error Code: 167
+148.2,167,Error Code: 167
+155.8,167,Error Code: 167
+155.8,53,User piece too big.
+170.5,167,Error Code: 167
+175,53,User piece too big.
+194.3,53,User piece too big.
+214.4,167,Error Code: 167
+214.5,53,User piece too big.
+220.8,167,Error Code: 167
+233.8,53,User piece too big.
+246.4,167,Error Code: 167
+250.1,167,Error Code: 167
+250.5,168,Error Code: 168
+252.2,53,User piece too big.
+252.2,73,Error Code: 73
+267.5,53,User piece too big.
+272.4,167,Error Code: 167
+283.2,167,Error Code: 167
+290.1,120,Calibration: waiting for user to start breathing.
+293.2,53,User piece too big.
+293.9,53,User piece too big.
+293.9,167,Error Code: 167
+293.9,73,Error Code: 73
+293.9,167,Error Code: 167
+293.9,168,Error Code: 168
+293.9,168,Error Code: 168
+293.9,120,Calibration: waiting for user to start breathing.
+293.9,53,User piece too big.
+293.9,197,Error Code: 197
+319.4,184,Error Code: 184
+351.1,197,Error Code: 197
+352.4,53,User piece too big.
+352.4,197,Error Code: 197
+378.1,197,Error Code: 197
+413.9,197,Error Code: 197
+422.9,53,User piece too big.
+450.7,121,Breath rejected; too jittery.
+451.7,168,Error Code: 168
+451.7,168,Error Code: 168
+452.1,168,Error Code: 168
+452.8,197,Error Code: 197
+469.7,197,Error Code: 197
+480.1,122,Breath rejected; segment too short.
+482.5,197,Error Code: 197
+491.7,190,Error Code: 190
+491.7,191,Error Code: 191
+500.4,209,Error Code: 209
+501.5,197,Error Code: 197
+541,197,Error Code: 197
+542.5,197,Error Code: 197
+544.9,197,Error Code: 197
+592.8,53,User piece too big.
+603,53,User piece too big.
+638,53,User piece too big.
+648,53,User piece too big.
+660.2,209,Error Code: 209
+661.3,168,Error Code: 168
+661.6,168,Error Code: 168
+662.3,56,Breathing less than valve trigger.
+663.2,209,Error Code: 209
+663.2,209,Error Code: 209
+682.3,209,Error Code: 209
+847.6,197,Error Code: 197
+858.6,209,Error Code: 209
+859,191,Error Code: 191
+859,209,Error Code: 209
+859,209,Error Code: 209
+859,209,Error Code: 209
+859,168,Error Code: 168
+859,168,Error Code: 168
+859,168,Error Code: 168
+859,168,Error Code: 168
+859,168,Error Code: 168
+859,168,Error Code: 168
+859,168,Error Code: 168
+859,168,Error Code: 168
+859,191,Error Code: 191
+859,209,Error Code: 209
+862.1,209,Error Code: 209
+862.1,122,Breath rejected; segment too short.
+862.6,209,Error Code: 209
+862.7,209,Error Code: 209
+862.7,209,Error Code: 209
+863.1,196,Error Code: 196
+865.3,209,Error Code: 209
+865.3,209,Error Code: 209
+866.7,168,Error Code: 168
+868.1,191,Error Code: 191
+869.1,197,Error Code: 197
+869.4,209,Error Code: 209
+871,197,Error Code: 197
+871.9,209,Error Code: 209
+872,209,Error Code: 209
+872.5,56,Breathing less than valve trigger.
+872.5,191,Error Code: 191
+873.2,196,Error Code: 196
+873.5,209,Error Code: 209
+873.5,191,Error Code: 191
+873.5,209,Error Code: 209
+873.5,209,Error Code: 209
+873.5,191,Error Code: 191
+873.5,209,Error Code: 209
+873.5,191,Error Code: 191
+873.5,209,Error Code: 209
+873.5,191,Error Code: 191
+873.5,209,Error Code: 209
+874.3,191,Error Code: 191
+880.3,122,Breath rejected; segment too short.
+880.4,209,Error Code: 209
+880.4,122,Breath rejected; segment too short.
+885.8,197,Error Code: 197
+888.3,197,Error Code: 197
+895,122,Breath rejected; segment too short.
+895,209,Error Code: 209
+895.2,122,Breath rejected; segment too short.
+900.8,56,Breathing less than valve trigger.
+903.9,122,Breath rejected; segment too short.
+903.9,209,Error Code: 209
+903.9,122,Breath rejected; segment too short.
+908.2,197,Error Code: 197
+908.4,209,Error Code: 209
+908.4,209,Error Code: 209
+914.6,209,Error Code: 209
+927.4,209,Error Code: 209
+931.3,209,Error Code: 209
+932.1,168,Error Code: 168
+939.4,209,Error Code: 209
+939.5,209,Error Code: 209
+1030.1,197,Error Code: 197
+1070.6,122,Breath rejected; segment too short.
+1070.6,209,Error Code: 209
+1070.6,122,Breath rejected; segment too short.
+1099.6,209,Error Code: 209
+1104.5,209,Error Code: 209
+1106.1,209,Error Code: 209
+1107.5,209,Error Code: 209
+1108.4,191,Error Code: 191
+1125.6,197,Error Code: 197
+1149.1,197,Error Code: 197
+1160.2,209,Error Code: 209
+1185,209,Error Code: 209
+1203.9,209,Error Code: 209
+1223.4,122,Breath rejected; segment too short.
+1223.4,209,Error Code: 209
+1223.4,122,Breath rejected; segment too short.
+1260.9,209,Error Code: 209
+1261.7,191,Error Code: 191
+1275.9,209,Error Code: 209
+1277.3,191,Error Code: 191
+1283.4,209,Error Code: 209
+1284.7,209,Error Code: 209
+1284.7,209,Error Code: 209
+1285.5,168,Error Code: 168
+1294.6,209,Error Code: 209
+1294.7,209,Error Code: 209
+1294.8,168,Error Code: 168
+1295,168,Error Code: 168
+1295.1,168,Error Code: 168
+1295.7,168,Error Code: 168
+1298,191,Error Code: 191
+1300,168,Error Code: 168
+1302.3,209,Error Code: 209
+1302.4,209,Error Code: 209
+1302.9,168,Error Code: 168
+1302.9,168,Error Code: 168
+1303.2,168,Error Code: 168
+1303.4,168,Error Code: 168
+1303.4,168,Error Code: 168
+1303.5,168,Error Code: 168
+1303.9,168,Error Code: 168
+1303.9,168,Error Code: 168
+1304,168,Error Code: 168
+1304.1,168,Error Code: 168
+1304.2,168,Error Code: 168
+1304.3,168,Error Code: 168
+1304.5,168,Error Code: 168
+1305.5,121,Breath rejected; too jittery.
+1355,149,Error Code: 149

@@ -1,0 +1,60 @@
+Time[s],Type[type],Value[value],Details
+-176.6,DeviceError,53,User piece too big.
+-155.3,DeviceError,168,Error Code: 168
+-155.1,DeviceError,121,Breath rejected; too jittery.
+-125.3,DeviceError,184,Error Code: 184
+-63.7,DeviceError,168,Error Code: 168
+-47.5,DeviceError,209,Error Code: 209
+-44.7,DeviceError,168,Error Code: 168
+0,DeviceError,168,Error Code: 168
+0,DeviceError,209,Error Code: 209
+0,DeviceError,168,Error Code: 168
+0,SessionRecording,0,
+131.7,DeviceError,197,Error Code: 197
+149,DeviceError,168,Error Code: 168
+149,DeviceError,168,Error Code: 168
+157.5,DeviceError,209,Error Code: 209
+186.5,DeviceError,197,Error Code: 197
+242.4,DeviceError,53,User piece too big.
+252,DeviceError,168,Error Code: 168
+252.4,DeviceError,168,Error Code: 168
+253.3,DeviceError,168,Error Code: 168
+289,DeviceError,64,Ventilation out of range.
+316.7,SessionPause,316,
+316.7,SessionRecording,323,
+479.2,DeviceError,122,Breath rejected; segment too short.
+603.2,SessionPause,610,
+603.2,DeviceError,168,Error Code: 168
+603.2,DeviceError,168,Error Code: 168
+603.2,DeviceError,168,Error Code: 168
+603.2,DeviceError,168,Error Code: 168
+603.2,DeviceError,168,Error Code: 168
+603.2,DeviceError,56,Breathing less than valve trigger.
+603.2,DeviceError,197,Error Code: 197
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,192,Error Code: 192
+603.2,DeviceError,168,Error Code: 168
+603.2,DeviceError,53,User piece too big.
+603.2,DeviceError,197,Error Code: 197
+603.2,DeviceError,197,Error Code: 197
+603.2,DeviceError,197,Error Code: 197
+603.2,DeviceError,53,User piece too big.
+603.2,DeviceError,197,Error Code: 197
+603.2,DeviceError,197,Error Code: 197
+603.2,DeviceError,197,Error Code: 197
+603.2,DeviceError,53,User piece too big.
+603.2,DeviceError,197,Error Code: 197
+603.2,SessionRecording,730,
+605.3,DeviceError,53,User piece too big.
+605.3,DeviceError,197,Error Code: 197
+605.3,DeviceError,197,Error Code: 197
+605.3,DeviceError,64,Ventilation out of range.
+605.3,SessionComplete,0,

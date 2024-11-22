@@ -1,0 +1,42 @@
+Workout Name: P19
+Time Zone: Europe/London
+Workout Date: 12/2/2021
+Start Time: 5:04:06 PM
+Elapsed Time: 30:01
+Notes: 
+
+
+Athlete Name: P19
+Date of Birth: 1988 June 06 
+Age: 33
+Height: 175 cm
+Weight: 77.2 kg
+Sex: Male
+
+Analyzer User Piece: Resting
+Analyzer Mask Size: Small
+Data Average Period: 1s
+
+VO2 Master Manager Version: 0.22.9 
+Reporting Version: 1.4.8.0
+
+Recorded With App Version: 0.22.9
+System: Android 12, Pixel 4
+
+Devices:
+1. VO2 Master 741 (741)
+     (1.5.0 E502000000043EEE VO2 Master Health Sensors Inc.)
+     - Rf
+     - Tv
+     - VO2
+     - VO2
+     - FeO2
+     - Ve
+     - Ve/VO2
+     - Pressure
+     - Temp
+     - HUM
+2. TICKR 2559 (210911561)
+     (  Wahoo Fitness)
+     - HR
+     - RR

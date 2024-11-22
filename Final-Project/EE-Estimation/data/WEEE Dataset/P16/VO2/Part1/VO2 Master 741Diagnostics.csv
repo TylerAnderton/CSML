@@ -1,0 +1,92 @@
+Time[s],Error[code],Description
+-179.8,180,Error Code: 180
+-128.4,120,Calibration: waiting for user to start breathing.
+-110.9,196,Error Code: 196
+-69.1,197,Error Code: 197
+-34.9,122,Breath rejected; segment too short.
+-2.4,129,Breath rejected; VO2 out of range.
+0,129,Breath rejected; VO2 out of range.
+9.9,197,Error Code: 197
+22.4,197,Error Code: 197
+28.2,197,Error Code: 197
+29.7,197,Error Code: 197
+32.5,197,Error Code: 197
+35.5,120,Calibration: waiting for user to start breathing.
+45.7,197,Error Code: 197
+65.8,197,Error Code: 197
+68.1,197,Error Code: 197
+71.1,64,Ventilation out of range.
+73.9,197,Error Code: 197
+74.7,209,Error Code: 209
+75.9,197,Error Code: 197
+81.1,197,Error Code: 197
+82.7,197,Error Code: 197
+104.9,197,Error Code: 197
+112.1,197,Error Code: 197
+114.3,197,Error Code: 197
+116.6,197,Error Code: 197
+119.1,197,Error Code: 197
+140.3,197,Error Code: 197
+301,209,Error Code: 209
+301,197,Error Code: 197
+332.6,197,Error Code: 197
+338.6,197,Error Code: 197
+341.2,197,Error Code: 197
+444.2,197,Error Code: 197
+470.8,197,Error Code: 197
+593.6,168,Error Code: 168
+600.4,168,Error Code: 168
+600.4,209,Error Code: 209
+600.4,191,Error Code: 191
+601.6,196,Error Code: 196
+602.4,196,Error Code: 196
+832,209,Error Code: 209
+898.9,197,Error Code: 197
+951,209,Error Code: 209
+1036.9,197,Error Code: 197
+1048.2,73,Error Code: 73
+1061,73,Error Code: 73
+1069.2,73,Error Code: 73
+1079.9,209,Error Code: 209
+1080.4,197,Error Code: 197
+1080.4,122,Breath rejected; segment too short.
+1087.8,73,Error Code: 73
+1093,73,Error Code: 73
+1094.6,73,Error Code: 73
+1096.1,73,Error Code: 73
+1097.7,73,Error Code: 73
+1099.4,73,Error Code: 73
+1102.2,73,Error Code: 73
+1111.6,197,Error Code: 197
+1111.7,209,Error Code: 209
+1112.2,197,Error Code: 197
+1112.3,122,Breath rejected; segment too short.
+1142,73,Error Code: 73
+1143.5,73,Error Code: 73
+1148.7,73,Error Code: 73
+1151,73,Error Code: 73
+1154.4,73,Error Code: 73
+1155.7,73,Error Code: 73
+1157.2,73,Error Code: 73
+1158.9,73,Error Code: 73
+1160.2,73,Error Code: 73
+1161.6,73,Error Code: 73
+1163.2,73,Error Code: 73
+1167.6,73,Error Code: 73
+1169.5,73,Error Code: 73
+1172.9,73,Error Code: 73
+1176.7,73,Error Code: 73
+1180.5,73,Error Code: 73
+1184.5,73,Error Code: 73
+1186.4,73,Error Code: 73
+1199.5,73,Error Code: 73
+1201,73,Error Code: 73
+1201,209,Error Code: 209
+1201,209,Error Code: 209
+1201,191,Error Code: 191
+1201,168,Error Code: 168
+1201,209,Error Code: 209
+1201,191,Error Code: 191
+1201,209,Error Code: 209
+1201,191,Error Code: 191
+1201,73,Error Code: 73

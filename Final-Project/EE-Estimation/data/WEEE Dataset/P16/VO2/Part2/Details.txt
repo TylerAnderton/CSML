@@ -1,0 +1,42 @@
+Workout Name: P16_3
+Time Zone: Europe/London
+Workout Date: 12/1/2021
+Start Time: 7:20:30 PM
+Elapsed Time: 03:57
+Notes: 
+
+
+Athlete Name: P16
+Date of Birth: 1987 August 11 
+Age: 34
+Height: 172 cm
+Weight: 73.1 kg
+Sex: Male
+
+Analyzer User Piece: Resting
+Analyzer Mask Size: Small
+Data Average Period: 1s
+
+VO2 Master Manager Version: 0.22.9 
+Reporting Version: 1.4.8.0
+
+Recorded With App Version: 0.22.9
+System: Android 12, Pixel 4
+
+Devices:
+1. VO2 Master 741 (741)
+     (1.5.0 E502000000043EEE VO2 Master Health Sensors Inc.)
+     - Rf
+     - Tv
+     - VO2
+     - VO2
+     - FeO2
+     - Ve
+     - Ve/VO2
+     - Pressure
+     - Temp
+     - HUM
+2. TICKR 2559 (210911561)
+     (  Wahoo Fitness)
+     - HR
+     - RR

@@ -1,0 +1,339 @@
+Time[s],Type[type],Value[value],Details
+-67,DeviceError,184,Error Code: 184
+-19.6,DeviceError,197,Error Code: 197
+-19.6,DeviceError,122,Breath rejected; segment too short.
+-19.6,DeviceError,209,Error Code: 209
+-19.4,DeviceError,122,Breath rejected; segment too short.
+-19.3,DeviceError,122,Breath rejected; segment too short.
+-19.3,DeviceError,209,Error Code: 209
+-19.1,DeviceError,209,Error Code: 209
+-0.2,DeviceError,168,Error Code: 168
+-0.2,DeviceError,168,Error Code: 168
+-0.2,DeviceError,168,Error Code: 168
+0,DeviceError,168,Error Code: 168
+0,DeviceError,168,Error Code: 168
+0,DeviceError,168,Error Code: 168
+0,SessionRecording,0,
+2.4,DeviceError,196,Error Code: 196
+3.8,SessionPause,3,
+3.8,DeviceError,209,Error Code: 209
+3.8,DeviceError,209,Error Code: 209
+3.8,DeviceError,209,Error Code: 209
+3.8,DeviceError,168,Error Code: 168
+3.8,DeviceError,168,Error Code: 168
+3.8,DeviceError,168,Error Code: 168
+3.8,DeviceError,191,Error Code: 191
+3.8,DeviceError,209,Error Code: 209
+3.8,DeviceError,196,Error Code: 196
+3.8,DeviceError,122,Breath rejected; segment too short.
+3.8,DeviceError,122,Breath rejected; segment too short.
+3.8,SessionRecording,53,
+30.2,DeviceError,168,Error Code: 168
+301,SessionPause,350,
+301,SessionRecording,375,
+334.7,DeviceError,168,Error Code: 168
+334.8,DeviceError,168,Error Code: 168
+335.3,DeviceError,168,Error Code: 168
+335.5,DeviceError,168,Error Code: 168
+601.3,SessionPause,676,
+601.3,DeviceError,209,Error Code: 209
+601.3,DeviceError,209,Error Code: 209
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,121,Breath rejected; too jittery.
+601.3,DeviceError,197,Error Code: 197
+601.3,DeviceError,122,Breath rejected; segment too short.
+601.3,DeviceError,168,Error Code: 168
+601.3,DeviceError,197,Error Code: 197
+601.3,DeviceError,122,Breath rejected; segment too short.
+601.3,DeviceError,209,Error Code: 209
+601.3,DeviceError,209,Error Code: 209
+601.3,SessionRecording,765,
+604.6,DeviceError,122,Breath rejected; segment too short.
+723.6,DeviceError,197,Error Code: 197
+727.8,DeviceError,122,Breath rejected; segment too short.
+727.9,DeviceError,209,Error Code: 209
+728,DeviceError,122,Breath rejected; segment too short.
+732.3,DeviceError,209,Error Code: 209
+732.8,DeviceError,196,Error Code: 196
+795,DeviceError,122,Breath rejected; segment too short.
+799.2,DeviceError,122,Breath rejected; segment too short.
+877,DeviceError,209,Error Code: 209
+877.8,DeviceError,197,Error Code: 197
+885.5,DeviceError,122,Breath rejected; segment too short.
+910.1,SessionPause,1074,
+910.1,DeviceError,56,Breathing less than valve trigger.
+910.1,SessionRecording,1089,
+932,DeviceError,56,Breathing less than valve trigger.
+944.5,DeviceError,197,Error Code: 197
+946.6,DeviceError,209,Error Code: 209
+946.7,DeviceError,209,Error Code: 209
+951,DeviceError,191,Error Code: 191
+975,DeviceError,56,Breathing less than valve trigger.
+979.3,DeviceError,197,Error Code: 197
+982.7,DeviceError,197,Error Code: 197
+1013.1,DeviceError,197,Error Code: 197
+1015.2,DeviceError,56,Breathing less than valve trigger.
+1031.3,DeviceError,56,Breathing less than valve trigger.
+1043.9,DeviceError,56,Breathing less than valve trigger.
+1055.6,DeviceError,197,Error Code: 197
+1073.4,DeviceError,197,Error Code: 197
+1104.8,DeviceError,209,Error Code: 209
+1105,DeviceError,196,Error Code: 196
+1135.5,DeviceError,197,Error Code: 197
+1201,SessionPause,1380,
+1201,DeviceError,168,Error Code: 168
+1201,DeviceError,168,Error Code: 168
+1201,DeviceError,168,Error Code: 168
+1201,DeviceError,168,Error Code: 168
+1201,DeviceError,209,Error Code: 209
+1201,DeviceError,209,Error Code: 209
+1201,DeviceError,191,Error Code: 191
+1201,SessionRecording,1501,
+1255,DeviceError,209,Error Code: 209
+1255.1,DeviceError,209,Error Code: 209
+1264.3,DeviceError,209,Error Code: 209
+1265.4,DeviceError,191,Error Code: 191
+1266,DeviceError,209,Error Code: 209
+1266.1,DeviceError,209,Error Code: 209
+1275,DeviceError,209,Error Code: 209
+1276.5,DeviceError,191,Error Code: 191
+1285.4,DeviceError,73,Error Code: 73
+1301.2,DeviceError,197,Error Code: 197
+1326.2,DeviceError,73,Error Code: 73
+1360.1,DeviceError,209,Error Code: 209
+1363,DeviceError,73,Error Code: 73
+1366.6,DeviceError,73,Error Code: 73
+1376.9,DeviceError,73,Error Code: 73
+1381.4,DeviceError,73,Error Code: 73
+1383.5,DeviceError,73,Error Code: 73
+1395.3,DeviceError,73,Error Code: 73
+1401.9,DeviceError,73,Error Code: 73
+1405.8,DeviceError,73,Error Code: 73
+1412,DeviceError,73,Error Code: 73
+1416.6,DeviceError,52,User piece too small.
+1416.6,DeviceError,73,Error Code: 73
+1423.2,DeviceError,73,Error Code: 73
+1425.6,DeviceError,73,Error Code: 73
+1432.1,DeviceError,209,Error Code: 209
+1433.1,DeviceError,191,Error Code: 191
+1451.5,DeviceError,209,Error Code: 209
+1458.5,DeviceError,73,Error Code: 73
+1460.5,DeviceError,73,Error Code: 73
+1465,DeviceError,73,Error Code: 73
+1470.9,DeviceError,73,Error Code: 73
+1472.8,DeviceError,73,Error Code: 73
+1476.8,DeviceError,73,Error Code: 73
+1479.1,DeviceError,73,Error Code: 73
+1483.4,DeviceError,73,Error Code: 73
+1491.6,DeviceError,73,Error Code: 73
+1493.7,DeviceError,73,Error Code: 73
+1499.5,SessionPause,1800,
+1499.5,DeviceError,73,Error Code: 73
+1499.5,DeviceError,209,Error Code: 209
+1499.5,DeviceError,209,Error Code: 209
+1499.5,DeviceError,191,Error Code: 191
+1499.5,DeviceError,209,Error Code: 209
+1499.5,DeviceError,122,Breath rejected; segment too short.
+1499.5,DeviceError,196,Error Code: 196
+1499.5,DeviceError,209,Error Code: 209
+1499.5,DeviceError,191,Error Code: 191
+1499.5,DeviceError,197,Error Code: 197
+1499.5,DeviceError,209,Error Code: 209
+1499.5,DeviceError,209,Error Code: 209
+1499.5,DeviceError,197,Error Code: 197
+1499.5,SessionRecording,1881,
+1506.4,DeviceError,73,Error Code: 73
+1522.3,DeviceError,73,Error Code: 73
+1527.7,DeviceError,73,Error Code: 73
+1528.2,DeviceError,197,Error Code: 197
+1532.3,DeviceError,73,Error Code: 73
+1543,DeviceError,73,Error Code: 73
+1545.4,DeviceError,73,Error Code: 73
+1547.4,DeviceError,52,User piece too small.
+1549.1,DeviceError,73,Error Code: 73
+1552.9,DeviceError,73,Error Code: 73
+1554.7,DeviceError,73,Error Code: 73
+1559.9,DeviceError,73,Error Code: 73
+1561.6,DeviceError,73,Error Code: 73
+1563.1,DeviceError,73,Error Code: 73
+1565,DeviceError,73,Error Code: 73
+1566.8,DeviceError,73,Error Code: 73
+1568.6,DeviceError,52,User piece too small.
+1568.7,DeviceError,73,Error Code: 73
+1570.2,DeviceError,73,Error Code: 73
+1572.3,DeviceError,73,Error Code: 73
+1574.3,DeviceError,52,User piece too small.
+1574.3,DeviceError,73,Error Code: 73
+1576.3,DeviceError,73,Error Code: 73
+1578.2,DeviceError,73,Error Code: 73
+1580.1,DeviceError,52,User piece too small.
+1580.2,DeviceError,73,Error Code: 73
+1582.1,DeviceError,73,Error Code: 73
+1584,DeviceError,73,Error Code: 73
+1586,DeviceError,52,User piece too small.
+1586,DeviceError,73,Error Code: 73
+1588,DeviceError,73,Error Code: 73
+1590.2,DeviceError,73,Error Code: 73
+1591.9,DeviceError,52,User piece too small.
+1592,DeviceError,73,Error Code: 73
+1593.9,DeviceError,73,Error Code: 73
+1596.2,DeviceError,73,Error Code: 73
+1598.3,DeviceError,52,User piece too small.
+1598.3,DeviceError,73,Error Code: 73
+1600.4,DeviceError,73,Error Code: 73
+1602.8,DeviceError,73,Error Code: 73
+1604.8,DeviceError,52,User piece too small.
+1604.8,DeviceError,73,Error Code: 73
+1607.3,DeviceError,73,Error Code: 73
+1609.4,DeviceError,73,Error Code: 73
+1611.5,DeviceError,52,User piece too small.
+1611.5,DeviceError,73,Error Code: 73
+1613.8,DeviceError,73,Error Code: 73
+1616.1,DeviceError,73,Error Code: 73
+1621.8,DeviceError,73,Error Code: 73
+1623.6,DeviceError,52,User piece too small.
+1623.7,DeviceError,73,Error Code: 73
+1625.5,DeviceError,73,Error Code: 73
+1627.2,DeviceError,73,Error Code: 73
+1629,DeviceError,52,User piece too small.
+1629,DeviceError,73,Error Code: 73
+1630.6,DeviceError,73,Error Code: 73
+1632.2,DeviceError,73,Error Code: 73
+1633.9,DeviceError,52,User piece too small.
+1633.9,DeviceError,73,Error Code: 73
+1635.5,DeviceError,73,Error Code: 73
+1637.5,DeviceError,73,Error Code: 73
+1639.1,DeviceError,52,User piece too small.
+1639.1,DeviceError,73,Error Code: 73
+1641,DeviceError,73,Error Code: 73
+1642.3,DeviceError,73,Error Code: 73
+1644.3,DeviceError,52,User piece too small.
+1644.3,DeviceError,73,Error Code: 73
+1645.6,DeviceError,73,Error Code: 73
+1647.3,DeviceError,73,Error Code: 73
+1649,DeviceError,52,User piece too small.
+1649.1,DeviceError,73,Error Code: 73
+1650.7,DeviceError,73,Error Code: 73
+1652.5,DeviceError,73,Error Code: 73
+1652.9,DeviceError,197,Error Code: 197
+1653,DeviceError,209,Error Code: 209
+1653.1,DeviceError,122,Breath rejected; segment too short.
+1654.7,DeviceError,73,Error Code: 73
+1656.4,DeviceError,73,Error Code: 73
+1658,DeviceError,52,User piece too small.
+1658,DeviceError,73,Error Code: 73
+1659.6,DeviceError,73,Error Code: 73
+1661.1,DeviceError,73,Error Code: 73
+1662.3,DeviceError,52,User piece too small.
+1662.3,DeviceError,73,Error Code: 73
+1663.9,DeviceError,73,Error Code: 73
+1667.2,DeviceError,52,User piece too small.
+1667.3,DeviceError,73,Error Code: 73
+1668.8,DeviceError,73,Error Code: 73
+1670.4,DeviceError,73,Error Code: 73
+1671.9,DeviceError,52,User piece too small.
+1671.9,DeviceError,73,Error Code: 73
+1673.8,DeviceError,73,Error Code: 73
+1675.6,DeviceError,73,Error Code: 73
+1677.2,DeviceError,52,User piece too small.
+1677.2,DeviceError,73,Error Code: 73
+1678.7,DeviceError,73,Error Code: 73
+1680.3,DeviceError,73,Error Code: 73
+1681.9,DeviceError,52,User piece too small.
+1681.9,DeviceError,73,Error Code: 73
+1683.7,DeviceError,73,Error Code: 73
+1685.3,DeviceError,73,Error Code: 73
+1686.7,DeviceError,52,User piece too small.
+1686.7,DeviceError,73,Error Code: 73
+1688.2,DeviceError,73,Error Code: 73
+1689.9,DeviceError,73,Error Code: 73
+1691.4,DeviceError,52,User piece too small.
+1691.4,DeviceError,73,Error Code: 73
+1693.1,DeviceError,73,Error Code: 73
+1694.8,DeviceError,73,Error Code: 73
+1696.3,DeviceError,52,User piece too small.
+1696.3,DeviceError,73,Error Code: 73
+1697.9,DeviceError,73,Error Code: 73
+1699.6,DeviceError,73,Error Code: 73
+1701,DeviceError,52,User piece too small.
+1701,DeviceError,73,Error Code: 73
+1704.3,DeviceError,73,Error Code: 73
+1705.7,DeviceError,73,Error Code: 73
+1707.1,DeviceError,52,User piece too small.
+1707.1,DeviceError,73,Error Code: 73
+1708.8,DeviceError,73,Error Code: 73
+1710.3,DeviceError,73,Error Code: 73
+1712,DeviceError,52,User piece too small.
+1712,DeviceError,73,Error Code: 73
+1713.5,DeviceError,73,Error Code: 73
+1715.1,DeviceError,73,Error Code: 73
+1716.7,DeviceError,52,User piece too small.
+1716.7,DeviceError,73,Error Code: 73
+1718.1,DeviceError,73,Error Code: 73
+1719.5,DeviceError,73,Error Code: 73
+1721.7,DeviceError,168,Error Code: 168
+1721.9,DeviceError,52,User piece too small.
+1723.4,DeviceError,73,Error Code: 73
+1725.2,DeviceError,73,Error Code: 73
+1726.6,DeviceError,52,User piece too small.
+1726.7,DeviceError,73,Error Code: 73
+1728.4,DeviceError,73,Error Code: 73
+1729.7,DeviceError,73,Error Code: 73
+1731,DeviceError,52,User piece too small.
+1731,DeviceError,73,Error Code: 73
+1732.8,DeviceError,73,Error Code: 73
+1734.4,DeviceError,73,Error Code: 73
+1735.9,DeviceError,52,User piece too small.
+1735.9,DeviceError,73,Error Code: 73
+1737.7,DeviceError,73,Error Code: 73
+1739.3,DeviceError,73,Error Code: 73
+1741.3,DeviceError,52,User piece too small.
+1741.3,DeviceError,73,Error Code: 73
+1743.1,DeviceError,73,Error Code: 73
+1745,DeviceError,73,Error Code: 73
+1746.3,DeviceError,52,User piece too small.
+1746.3,DeviceError,73,Error Code: 73
+1748.1,DeviceError,73,Error Code: 73
+1749.5,DeviceError,73,Error Code: 73
+1751,DeviceError,52,User piece too small.
+1751.2,DeviceError,73,Error Code: 73
+1752.7,DeviceError,73,Error Code: 73
+1754.3,DeviceError,73,Error Code: 73
+1755.9,DeviceError,52,User piece too small.
+1755.9,DeviceError,73,Error Code: 73
+1757.4,DeviceError,73,Error Code: 73
+1758.8,DeviceError,73,Error Code: 73
+1760.3,DeviceError,52,User piece too small.
+1760.3,DeviceError,73,Error Code: 73
+1761.8,DeviceError,73,Error Code: 73
+1763.2,DeviceError,73,Error Code: 73
+1764.6,DeviceError,52,User piece too small.
+1764.6,DeviceError,73,Error Code: 73
+1766.4,DeviceError,73,Error Code: 73
+1767.7,DeviceError,73,Error Code: 73
+1768.9,DeviceError,52,User piece too small.
+1768.9,DeviceError,73,Error Code: 73
+1770.8,DeviceError,73,Error Code: 73
+1772.8,DeviceError,73,Error Code: 73
+1774.5,DeviceError,52,User piece too small.
+1774.5,DeviceError,73,Error Code: 73
+1776.3,DeviceError,73,Error Code: 73
+1777.8,DeviceError,73,Error Code: 73
+1779.5,DeviceError,52,User piece too small.
+1779.5,DeviceError,73,Error Code: 73
+1781.2,DeviceError,73,Error Code: 73
+1782.6,DeviceError,73,Error Code: 73
+1784.3,DeviceError,52,User piece too small.
+1784.4,DeviceError,73,Error Code: 73
+1785.9,DeviceError,73,Error Code: 73
+1787.4,DeviceError,73,Error Code: 73
+1790.6,DeviceError,73,Error Code: 73
+1792.3,DeviceError,73,Error Code: 73
+1882.1,SessionComplete,0,

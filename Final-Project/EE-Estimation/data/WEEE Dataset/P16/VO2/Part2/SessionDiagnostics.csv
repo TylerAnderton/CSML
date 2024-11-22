@@ -1,0 +1,245 @@
+Time[s],Type[type],Value[value],Details
+-136.5,DeviceError,120,Calibration: waiting for user to start breathing.
+-84.9,DeviceError,196,Error Code: 196
+-71.6,DeviceError,122,Breath rejected; segment too short.
+-71.5,DeviceError,122,Breath rejected; segment too short.
+-67.8,DeviceError,196,Error Code: 196
+-45,DeviceError,73,Error Code: 73
+-16.6,DeviceError,73,Error Code: 73
+-15.2,DeviceError,132,Oxygen sensor calibration waveform is volatile.
+-13.7,DeviceError,73,Error Code: 73
+-12.1,DeviceError,73,Error Code: 73
+-10.5,DeviceError,73,Error Code: 73
+-9,DeviceError,73,Error Code: 73
+-8.2,DeviceError,209,Error Code: 209
+-5.3,DeviceError,73,Error Code: 73
+-3.7,DeviceError,73,Error Code: 73
+-2.4,DeviceError,73,Error Code: 73
+-0.4,DeviceError,73,Error Code: 73
+0,DeviceError,73,Error Code: 73
+0,SessionRecording,0,
+1,DeviceError,73,Error Code: 73
+1.8,DeviceError,209,Error Code: 209
+1.9,DeviceError,209,Error Code: 209
+4.3,DeviceError,73,Error Code: 73
+5.8,DeviceError,73,Error Code: 73
+7.3,DeviceError,73,Error Code: 73
+8.9,DeviceError,73,Error Code: 73
+10.6,DeviceError,73,Error Code: 73
+12,DeviceError,52,User piece too small.
+12,DeviceError,73,Error Code: 73
+13.5,DeviceError,73,Error Code: 73
+15,DeviceError,73,Error Code: 73
+16.5,DeviceError,73,Error Code: 73
+18.1,DeviceError,73,Error Code: 73
+19.5,DeviceError,73,Error Code: 73
+20.9,DeviceError,73,Error Code: 73
+22.4,DeviceError,73,Error Code: 73
+23.8,DeviceError,73,Error Code: 73
+25.3,DeviceError,52,User piece too small.
+25.3,DeviceError,73,Error Code: 73
+26.7,DeviceError,73,Error Code: 73
+28.1,DeviceError,73,Error Code: 73
+29.5,DeviceError,73,Error Code: 73
+31.2,DeviceError,73,Error Code: 73
+32.6,DeviceError,52,User piece too small.
+32.6,DeviceError,73,Error Code: 73
+33.9,DeviceError,73,Error Code: 73
+35.5,DeviceError,73,Error Code: 73
+36.9,DeviceError,73,Error Code: 73
+38.3,DeviceError,73,Error Code: 73
+39.6,DeviceError,52,User piece too small.
+39.8,DeviceError,73,Error Code: 73
+41.8,DeviceError,120,Calibration: waiting for user to start breathing.
+43.5,DeviceError,73,Error Code: 73
+44.9,DeviceError,52,User piece too small.
+44.9,DeviceError,73,Error Code: 73
+46.4,DeviceError,73,Error Code: 73
+47.9,DeviceError,73,Error Code: 73
+49.3,DeviceError,73,Error Code: 73
+50.7,DeviceError,73,Error Code: 73
+52.1,DeviceError,73,Error Code: 73
+53.4,DeviceError,73,Error Code: 73
+55,DeviceError,52,User piece too small.
+55,DeviceError,73,Error Code: 73
+56.4,DeviceError,73,Error Code: 73
+57.8,DeviceError,73,Error Code: 73
+59.4,DeviceError,52,User piece too small.
+59.4,DeviceError,73,Error Code: 73
+60.7,DeviceError,73,Error Code: 73
+62.2,DeviceError,73,Error Code: 73
+63.6,DeviceError,52,User piece too small.
+63.6,DeviceError,73,Error Code: 73
+65,DeviceError,73,Error Code: 73
+66.4,DeviceError,73,Error Code: 73
+68,DeviceError,52,User piece too small.
+68,DeviceError,73,Error Code: 73
+69.2,DeviceError,73,Error Code: 73
+70.7,DeviceError,73,Error Code: 73
+72.2,DeviceError,52,User piece too small.
+72.2,DeviceError,73,Error Code: 73
+73.7,DeviceError,73,Error Code: 73
+75.4,DeviceError,73,Error Code: 73
+76.6,DeviceError,52,User piece too small.
+76.6,DeviceError,73,Error Code: 73
+78.5,DeviceError,73,Error Code: 73
+79.9,DeviceError,73,Error Code: 73
+81.4,DeviceError,52,User piece too small.
+81.4,DeviceError,73,Error Code: 73
+82.8,DeviceError,73,Error Code: 73
+84.2,DeviceError,73,Error Code: 73
+85.6,DeviceError,52,User piece too small.
+85.6,DeviceError,73,Error Code: 73
+86.9,DeviceError,73,Error Code: 73
+88.3,DeviceError,73,Error Code: 73
+89.7,DeviceError,52,User piece too small.
+89.7,DeviceError,73,Error Code: 73
+91,DeviceError,73,Error Code: 73
+92.5,DeviceError,73,Error Code: 73
+93.8,DeviceError,52,User piece too small.
+93.8,DeviceError,73,Error Code: 73
+94.9,DeviceError,73,Error Code: 73
+96.5,DeviceError,73,Error Code: 73
+97.6,DeviceError,52,User piece too small.
+97.7,DeviceError,73,Error Code: 73
+98.9,DeviceError,73,Error Code: 73
+100.4,DeviceError,73,Error Code: 73
+101.5,DeviceError,52,User piece too small.
+101.5,DeviceError,73,Error Code: 73
+102.8,DeviceError,73,Error Code: 73
+104.2,DeviceError,73,Error Code: 73
+105.3,DeviceError,52,User piece too small.
+105.3,DeviceError,73,Error Code: 73
+106.8,DeviceError,73,Error Code: 73
+108.3,DeviceError,73,Error Code: 73
+109.5,DeviceError,52,User piece too small.
+109.5,DeviceError,73,Error Code: 73
+110.7,DeviceError,73,Error Code: 73
+112.3,DeviceError,73,Error Code: 73
+113.5,DeviceError,52,User piece too small.
+113.5,DeviceError,73,Error Code: 73
+114.9,DeviceError,73,Error Code: 73
+116.3,DeviceError,73,Error Code: 73
+118,DeviceError,52,User piece too small.
+118,DeviceError,120,Calibration: waiting for user to start breathing.
+119.5,DeviceError,73,Error Code: 73
+120.7,DeviceError,73,Error Code: 73
+122.1,DeviceError,52,User piece too small.
+122.1,DeviceError,73,Error Code: 73
+123.5,DeviceError,73,Error Code: 73
+125,DeviceError,73,Error Code: 73
+126.3,DeviceError,52,User piece too small.
+126.3,DeviceError,73,Error Code: 73
+129.4,DeviceError,73,Error Code: 73
+130.8,DeviceError,52,User piece too small.
+130.8,DeviceError,73,Error Code: 73
+132.1,DeviceError,73,Error Code: 73
+133.7,DeviceError,73,Error Code: 73
+135,DeviceError,52,User piece too small.
+135.1,DeviceError,73,Error Code: 73
+136.2,DeviceError,73,Error Code: 73
+137.6,DeviceError,73,Error Code: 73
+138.1,DeviceError,209,Error Code: 209
+139.6,DeviceError,52,User piece too small.
+144.5,DeviceError,52,User piece too small.
+144.5,DeviceError,73,Error Code: 73
+145.6,DeviceError,73,Error Code: 73
+147,DeviceError,73,Error Code: 73
+148.3,DeviceError,52,User piece too small.
+148.3,DeviceError,73,Error Code: 73
+149.5,DeviceError,73,Error Code: 73
+151,DeviceError,73,Error Code: 73
+152.1,DeviceError,52,User piece too small.
+152.1,DeviceError,73,Error Code: 73
+153.4,DeviceError,73,Error Code: 73
+154.7,DeviceError,73,Error Code: 73
+155.9,DeviceError,52,User piece too small.
+155.9,DeviceError,73,Error Code: 73
+157.4,DeviceError,73,Error Code: 73
+158,DeviceError,197,Error Code: 197
+158.8,DeviceError,73,Error Code: 73
+160.3,DeviceError,73,Error Code: 73
+161.7,DeviceError,52,User piece too small.
+161.8,DeviceError,73,Error Code: 73
+163.1,DeviceError,73,Error Code: 73
+164.5,DeviceError,73,Error Code: 73
+165.8,DeviceError,52,User piece too small.
+166,DeviceError,73,Error Code: 73
+167.2,DeviceError,73,Error Code: 73
+168.5,DeviceError,73,Error Code: 73
+169.9,DeviceError,52,User piece too small.
+169.9,DeviceError,73,Error Code: 73
+171.1,DeviceError,73,Error Code: 73
+172.5,DeviceError,73,Error Code: 73
+174,DeviceError,52,User piece too small.
+174,DeviceError,73,Error Code: 73
+175.4,DeviceError,73,Error Code: 73
+176.9,DeviceError,73,Error Code: 73
+178.2,DeviceError,52,User piece too small.
+178.2,DeviceError,73,Error Code: 73
+179.6,DeviceError,73,Error Code: 73
+180.9,DeviceError,73,Error Code: 73
+182.5,DeviceError,52,User piece too small.
+182.6,DeviceError,73,Error Code: 73
+183.6,DeviceError,73,Error Code: 73
+184.9,DeviceError,73,Error Code: 73
+186.4,DeviceError,52,User piece too small.
+186.5,DeviceError,73,Error Code: 73
+187.5,DeviceError,73,Error Code: 73
+188.9,DeviceError,73,Error Code: 73
+190,DeviceError,52,User piece too small.
+190,DeviceError,73,Error Code: 73
+191.4,DeviceError,73,Error Code: 73
+192.7,DeviceError,73,Error Code: 73
+194.1,DeviceError,52,User piece too small.
+194.1,DeviceError,73,Error Code: 73
+195.4,DeviceError,73,Error Code: 73
+196.8,DeviceError,73,Error Code: 73
+198.2,DeviceError,52,User piece too small.
+198.2,DeviceError,73,Error Code: 73
+199.4,DeviceError,73,Error Code: 73
+200.7,DeviceError,73,Error Code: 73
+202.1,DeviceError,52,User piece too small.
+202.1,DeviceError,73,Error Code: 73
+203.6,DeviceError,73,Error Code: 73
+204.9,DeviceError,73,Error Code: 73
+206.1,DeviceError,52,User piece too small.
+206.1,DeviceError,73,Error Code: 73
+207.5,DeviceError,73,Error Code: 73
+208.8,DeviceError,73,Error Code: 73
+210.2,DeviceError,52,User piece too small.
+210.2,DeviceError,73,Error Code: 73
+211.5,DeviceError,73,Error Code: 73
+212.8,DeviceError,73,Error Code: 73
+214.2,DeviceError,52,User piece too small.
+214.3,DeviceError,73,Error Code: 73
+215.5,DeviceError,73,Error Code: 73
+216.8,DeviceError,73,Error Code: 73
+218.2,DeviceError,52,User piece too small.
+218.2,DeviceError,73,Error Code: 73
+219.5,DeviceError,73,Error Code: 73
+220.7,DeviceError,73,Error Code: 73
+222.1,DeviceError,52,User piece too small.
+222.1,DeviceError,73,Error Code: 73
+223.6,DeviceError,73,Error Code: 73
+224.7,DeviceError,73,Error Code: 73
+226.1,DeviceError,52,User piece too small.
+226.1,DeviceError,73,Error Code: 73
+227.6,DeviceError,73,Error Code: 73
+228.7,DeviceError,73,Error Code: 73
+230.1,DeviceError,52,User piece too small.
+230.1,DeviceError,73,Error Code: 73
+231.5,DeviceError,209,Error Code: 209
+232.6,DeviceError,191,Error Code: 191
+234,DeviceError,73,Error Code: 73
+235.6,DeviceError,52,User piece too small.
+235.6,DeviceError,73,Error Code: 73
+236.9,DeviceError,73,Error Code: 73
+237.8,DeviceError,52,User piece too small.
+237.8,DeviceError,73,Error Code: 73
+237.8,DeviceError,73,Error Code: 73
+237.8,DeviceError,73,Error Code: 73
+237.8,DeviceError,52,User piece too small.
+237.8,DeviceError,73,Error Code: 73
+237.8,DeviceError,73,Error Code: 73
+237.8,SessionComplete,0,

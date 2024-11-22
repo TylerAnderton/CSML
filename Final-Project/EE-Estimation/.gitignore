@@ -1,2 +1,17 @@
 data/*
-!data/WHEEE Dataset/*
+
+!data/WEEE Dataset/
+data/WEEE Dataset/*
+
+!data/WEEE Dataset/P*/
+data/WEEE Dataset/P*/*
+
+!data/WEEE Dataset/P*/E4
+!data/WEEE Dataset/P*/E4/*
+!data/WEEE Dataset/P*/VO2
+!data/WEEE Dataset/P*/VO2/*
+
+!data/WEEE Dataset/processed
+!data/WEEE Dataset/processed/*
+!data/WEEE Dataset/Demographics.csv
+!data/WEEE Dataset/Study_Information.csv

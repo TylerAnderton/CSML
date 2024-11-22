@@ -1,0 +1,47 @@
+Time[s],Error[code],Description
+-179.7,197,Error Code: 197
+-177.6,197,Error Code: 197
+-177.2,209,Error Code: 209
+-176.9,196,Error Code: 196
+-171.1,197,Error Code: 197
+-130.6,197,Error Code: 197
+-97.4,197,Error Code: 197
+-28.3,197,Error Code: 197
+-23.4,56,Breathing less than valve trigger.
+-17,209,Error Code: 209
+-16,197,Error Code: 197
+-4.1,197,Error Code: 197
+298.1,197,Error Code: 197
+311.8,197,Error Code: 197
+457.5,197,Error Code: 197
+466.2,197,Error Code: 197
+494.2,197,Error Code: 197
+576.9,197,Error Code: 197
+603.4,209,Error Code: 209
+603.7,197,Error Code: 197
+604.3,197,Error Code: 197
+604.3,197,Error Code: 197
+604.3,209,Error Code: 209
+604.3,122,Breath rejected; segment too short.
+604.3,196,Error Code: 196
+604.3,209,Error Code: 209
+604.3,197,Error Code: 197
+604.3,197,Error Code: 197
+604.3,209,Error Code: 209
+606.1,191,Error Code: 191
+630.7,197,Error Code: 197
+764.3,197,Error Code: 197
+770.5,122,Breath rejected; segment too short.
+798.9,122,Breath rejected; segment too short.
+852.8,197,Error Code: 197
+906.2,209,Error Code: 209
+908.8,191,Error Code: 191
+947.1,197,Error Code: 197
+949.4,197,Error Code: 197
+1003.1,209,Error Code: 209
+1007.5,197,Error Code: 197
+1022,197,Error Code: 197
+1165.1,197,Error Code: 197
+1169.2,209,Error Code: 209
+1284.4,209,Error Code: 209
+1286.1,191,Error Code: 191

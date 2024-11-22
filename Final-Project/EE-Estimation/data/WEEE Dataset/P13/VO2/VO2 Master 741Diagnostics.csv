@@ -1,0 +1,73 @@
+Time[s],Error[code],Description
+-110.7,64,Ventilation out of range.
+-110.2,184,Error Code: 184
+-52.1,197,Error Code: 197
+-22.7,197,Error Code: 197
+250.8,197,Error Code: 197
+302,197,Error Code: 197
+302,197,Error Code: 197
+320.7,197,Error Code: 197
+322.9,197,Error Code: 197
+408.7,197,Error Code: 197
+600.3,197,Error Code: 197
+600.3,197,Error Code: 197
+600.3,122,Breath rejected; segment too short.
+600.3,209,Error Code: 209
+600.3,191,Error Code: 191
+600.3,122,Breath rejected; segment too short.
+600.3,122,Breath rejected; segment too short.
+600.3,209,Error Code: 209
+600.3,122,Breath rejected; segment too short.
+600.3,122,Breath rejected; segment too short.
+600.3,209,Error Code: 209
+600.3,209,Error Code: 209
+600.3,209,Error Code: 209
+600.3,209,Error Code: 209
+600.3,168,Error Code: 168
+600.3,168,Error Code: 168
+600.3,168,Error Code: 168
+600.3,209,Error Code: 209
+600.3,168,Error Code: 168
+600.3,168,Error Code: 168
+600.3,168,Error Code: 168
+600.3,168,Error Code: 168
+600.3,168,Error Code: 168
+600.3,209,Error Code: 209
+600.3,209,Error Code: 209
+600.3,209,Error Code: 209
+600.5,209,Error Code: 209
+600.6,209,Error Code: 209
+601,168,Error Code: 168
+601.4,168,Error Code: 168
+601.5,168,Error Code: 168
+601.7,168,Error Code: 168
+602.1,168,Error Code: 168
+602.5,191,Error Code: 191
+603,209,Error Code: 209
+603.7,168,Error Code: 168
+603.9,168,Error Code: 168
+604.2,168,Error Code: 168
+604.2,168,Error Code: 168
+604.8,191,Error Code: 191
+1202.1,209,Error Code: 209
+1202.1,209,Error Code: 209
+1202.3,209,Error Code: 209
+1210.2,122,Breath rejected; segment too short.
+1210.2,209,Error Code: 209
+1210.3,122,Breath rejected; segment too short.
+1211.1,209,Error Code: 209
+1243.7,209,Error Code: 209
+1424.4,122,Breath rejected; segment too short.
+1424.6,209,Error Code: 209
+1505.7,209,Error Code: 209
+1508.7,209,Error Code: 209
+1508.9,209,Error Code: 209
+1583.2,73,Error Code: 73
+1682.9,73,Error Code: 73
+1683.8,209,Error Code: 209
+1684.7,191,Error Code: 191
+1687.8,73,Error Code: 73
+1690.7,73,Error Code: 73
+1745.1,73,Error Code: 73
+1765.9,73,Error Code: 73
+1781.4,73,Error Code: 73

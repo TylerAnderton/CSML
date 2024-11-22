@@ -1,0 +1,292 @@
+Time[s],Type[type],Value[value],Details
+-179.2,DeviceError,53,User piece too big.
+-171.1,DeviceError,53,User piece too big.
+-164.6,DeviceError,53,User piece too big.
+-150.8,DeviceError,53,User piece too big.
+-136.2,DeviceError,167,Error Code: 167
+-135.6,DeviceError,168,Error Code: 168
+-135.2,DeviceError,168,Error Code: 168
+-135.1,DeviceError,168,Error Code: 168
+-135,DeviceError,168,Error Code: 168
+-134.9,DeviceError,168,Error Code: 168
+-134.8,DeviceError,168,Error Code: 168
+-134.7,DeviceError,168,Error Code: 168
+-134.3,DeviceError,168,Error Code: 168
+-134.3,DeviceError,168,Error Code: 168
+-133.9,DeviceError,168,Error Code: 168
+-133.9,DeviceError,168,Error Code: 168
+-133.4,DeviceError,121,Breath rejected; too jittery.
+-125.1,DeviceError,168,Error Code: 168
+-125.1,DeviceError,168,Error Code: 168
+-124.7,DeviceError,168,Error Code: 168
+-124.7,DeviceError,168,Error Code: 168
+-123.7,DeviceError,53,User piece too big.
+-123.7,DeviceError,121,Breath rejected; too jittery.
+-121.5,DeviceError,120,Calibration: waiting for user to start breathing.
+-106.9,DeviceError,167,Error Code: 167
+-104.6,DeviceError,121,Breath rejected; too jittery.
+-96.4,DeviceError,121,Breath rejected; too jittery.
+-95.3,DeviceError,122,Breath rejected; segment too short.
+-92,DeviceError,167,Error Code: 167
+-84.2,DeviceError,73,Error Code: 73
+-79.2,DeviceError,53,User piece too big.
+-79.2,DeviceError,73,Error Code: 73
+-74.9,DeviceError,167,Error Code: 167
+-74.5,DeviceError,120,Calibration: waiting for user to start breathing.
+-59,DeviceError,167,Error Code: 167
+-59,DeviceError,184,Error Code: 184
+-46.5,DeviceError,73,Error Code: 73
+-40.6,DeviceError,120,Calibration: waiting for user to start breathing.
+-38,DeviceError,167,Error Code: 167
+-32,DeviceError,167,Error Code: 167
+-31.9,DeviceError,73,Error Code: 73
+-19.9,DeviceError,167,Error Code: 167
+-19.9,DeviceError,73,Error Code: 73
+-15.4,DeviceError,167,Error Code: 167
+0,DeviceError,167,Error Code: 167
+0,DeviceError,73,Error Code: 73
+0,DeviceError,167,Error Code: 167
+0,DeviceError,73,Error Code: 73
+0,DeviceError,167,Error Code: 167
+0,DeviceError,73,Error Code: 73
+0,DeviceError,120,Calibration: waiting for user to start breathing.
+0,DeviceError,167,Error Code: 167
+0,SessionRecording,0,
+0,DeviceError,53,User piece too big.
+0,DeviceError,121,Breath rejected; too jittery.
+4.3,DeviceError,73,Error Code: 73
+5.3,DeviceError,197,Error Code: 197
+7.9,DeviceError,197,Error Code: 197
+9.1,DeviceError,53,User piece too big.
+9.1,DeviceError,197,Error Code: 197
+12.7,DeviceError,167,Error Code: 167
+16.3,DeviceError,73,Error Code: 73
+36.7,DeviceError,120,Calibration: waiting for user to start breathing.
+43.1,DeviceError,53,User piece too big.
+43.1,DeviceError,73,Error Code: 73
+51.9,DeviceError,167,Error Code: 167
+55.8,DeviceError,73,Error Code: 73
+65.6,DeviceError,167,Error Code: 167
+69,DeviceError,167,Error Code: 167
+71.1,DeviceError,53,User piece too big.
+76.9,DeviceError,120,Calibration: waiting for user to start breathing.
+80.8,DeviceError,167,Error Code: 167
+91,DeviceError,53,User piece too big.
+98.6,DeviceError,167,Error Code: 167
+103.2,DeviceError,168,Error Code: 168
+104,DeviceError,168,Error Code: 168
+104.2,DeviceError,168,Error Code: 168
+104.2,DeviceError,168,Error Code: 168
+106,DeviceError,121,Breath rejected; too jittery.
+109.3,DeviceError,168,Error Code: 168
+109.4,DeviceError,168,Error Code: 168
+109.6,DeviceError,168,Error Code: 168
+110.4,DeviceError,168,Error Code: 168
+110.4,DeviceError,168,Error Code: 168
+110.8,DeviceError,168,Error Code: 168
+111.5,DeviceError,168,Error Code: 168
+114.1,DeviceError,167,Error Code: 167
+114.1,DeviceError,53,User piece too big.
+114.1,DeviceError,121,Breath rejected; too jittery.
+117.9,DeviceError,168,Error Code: 168
+118,DeviceError,168,Error Code: 168
+121,DeviceError,167,Error Code: 167
+121,DeviceError,121,Breath rejected; too jittery.
+127.8,DeviceError,120,Calibration: waiting for user to start breathing.
+132,DeviceError,168,Error Code: 168
+132.1,DeviceError,168,Error Code: 168
+132.5,DeviceError,168,Error Code: 168
+132.6,DeviceError,168,Error Code: 168
+134.5,DeviceError,53,User piece too big.
+134.5,DeviceError,121,Breath rejected; too jittery.
+136.8,DeviceError,167,Error Code: 167
+148.2,DeviceError,167,Error Code: 167
+155.8,DeviceError,167,Error Code: 167
+155.8,DeviceError,53,User piece too big.
+170.5,DeviceError,167,Error Code: 167
+175,DeviceError,53,User piece too big.
+194.3,DeviceError,53,User piece too big.
+214.4,DeviceError,167,Error Code: 167
+214.5,DeviceError,53,User piece too big.
+220.8,DeviceError,167,Error Code: 167
+233.8,DeviceError,53,User piece too big.
+246.4,DeviceError,167,Error Code: 167
+250.1,DeviceError,167,Error Code: 167
+250.5,DeviceError,168,Error Code: 168
+252.2,DeviceError,53,User piece too big.
+252.2,DeviceError,73,Error Code: 73
+267.5,DeviceError,53,User piece too big.
+272.4,DeviceError,167,Error Code: 167
+283.2,DeviceError,167,Error Code: 167
+290.1,DeviceError,120,Calibration: waiting for user to start breathing.
+293.2,DeviceError,53,User piece too big.
+293.9,SessionPause,293,
+293.9,DeviceError,53,User piece too big.
+293.9,DeviceError,167,Error Code: 167
+293.9,DeviceError,73,Error Code: 73
+293.9,DeviceError,167,Error Code: 167
+293.9,DeviceError,168,Error Code: 168
+293.9,DeviceError,168,Error Code: 168
+293.9,DeviceError,120,Calibration: waiting for user to start breathing.
+293.9,DeviceError,53,User piece too big.
+293.9,DeviceError,197,Error Code: 197
+293.9,SessionRecording,387,
+319.4,DeviceError,184,Error Code: 184
+351.1,DeviceError,197,Error Code: 197
+352.4,DeviceError,53,User piece too big.
+352.4,DeviceError,197,Error Code: 197
+378.1,DeviceError,197,Error Code: 197
+413.9,DeviceError,197,Error Code: 197
+422.9,DeviceError,53,User piece too big.
+450.7,DeviceError,121,Breath rejected; too jittery.
+451.7,DeviceError,168,Error Code: 168
+451.7,DeviceError,168,Error Code: 168
+452.1,DeviceError,168,Error Code: 168
+452.8,DeviceError,197,Error Code: 197
+469.7,DeviceError,197,Error Code: 197
+480.1,DeviceError,122,Breath rejected; segment too short.
+482.5,DeviceError,197,Error Code: 197
+491.7,SessionPause,585,
+491.7,DeviceError,190,Error Code: 190
+491.7,DeviceError,191,Error Code: 191
+491.7,SessionRecording,588,
+500.4,DeviceError,209,Error Code: 209
+501.5,DeviceError,197,Error Code: 197
+541,DeviceError,197,Error Code: 197
+542.5,DeviceError,197,Error Code: 197
+544.9,DeviceError,197,Error Code: 197
+592.8,DeviceError,53,User piece too big.
+603,DeviceError,53,User piece too big.
+638,DeviceError,53,User piece too big.
+648,DeviceError,53,User piece too big.
+660.2,DeviceError,209,Error Code: 209
+661.3,DeviceError,168,Error Code: 168
+661.6,DeviceError,168,Error Code: 168
+662.3,DeviceError,56,Breathing less than valve trigger.
+663.2,DeviceError,209,Error Code: 209
+663.2,DeviceError,209,Error Code: 209
+682.3,DeviceError,209,Error Code: 209
+690.3,SessionPause,786,
+690.3,SessionRecording,799,
+847.6,DeviceError,197,Error Code: 197
+858.6,DeviceError,209,Error Code: 209
+859,SessionPause,968,
+859,DeviceError,191,Error Code: 191
+859,DeviceError,209,Error Code: 209
+859,DeviceError,209,Error Code: 209
+859,DeviceError,209,Error Code: 209
+859,DeviceError,168,Error Code: 168
+859,DeviceError,168,Error Code: 168
+859,DeviceError,168,Error Code: 168
+859,DeviceError,168,Error Code: 168
+859,DeviceError,168,Error Code: 168
+859,DeviceError,168,Error Code: 168
+859,DeviceError,168,Error Code: 168
+859,DeviceError,168,Error Code: 168
+859,DeviceError,191,Error Code: 191
+859,DeviceError,209,Error Code: 209
+859,SessionRecording,999,
+862.1,DeviceError,209,Error Code: 209
+862.1,DeviceError,122,Breath rejected; segment too short.
+862.6,DeviceError,209,Error Code: 209
+862.7,DeviceError,209,Error Code: 209
+862.7,DeviceError,209,Error Code: 209
+863.1,DeviceError,196,Error Code: 196
+865.3,DeviceError,209,Error Code: 209
+865.3,DeviceError,209,Error Code: 209
+866.7,DeviceError,168,Error Code: 168
+868.1,DeviceError,191,Error Code: 191
+869.1,DeviceError,197,Error Code: 197
+869.4,DeviceError,209,Error Code: 209
+871,DeviceError,197,Error Code: 197
+871.9,DeviceError,209,Error Code: 209
+872,DeviceError,209,Error Code: 209
+872.5,DeviceError,56,Breathing less than valve trigger.
+872.5,DeviceError,191,Error Code: 191
+873.2,DeviceError,196,Error Code: 196
+873.5,SessionPause,1013,
+873.5,DeviceError,209,Error Code: 209
+873.5,DeviceError,191,Error Code: 191
+873.5,DeviceError,209,Error Code: 209
+873.5,DeviceError,209,Error Code: 209
+873.5,DeviceError,191,Error Code: 191
+873.5,DeviceError,209,Error Code: 209
+873.5,DeviceError,191,Error Code: 191
+873.5,DeviceError,209,Error Code: 209
+873.5,DeviceError,191,Error Code: 191
+873.5,DeviceError,209,Error Code: 209
+873.5,SessionRecording,1021,
+874.3,DeviceError,191,Error Code: 191
+880.3,DeviceError,122,Breath rejected; segment too short.
+880.4,DeviceError,209,Error Code: 209
+880.4,DeviceError,122,Breath rejected; segment too short.
+885.8,DeviceError,197,Error Code: 197
+888.3,DeviceError,197,Error Code: 197
+895,DeviceError,122,Breath rejected; segment too short.
+895,DeviceError,209,Error Code: 209
+895.2,DeviceError,122,Breath rejected; segment too short.
+900.8,DeviceError,56,Breathing less than valve trigger.
+903.9,DeviceError,122,Breath rejected; segment too short.
+903.9,DeviceError,209,Error Code: 209
+903.9,DeviceError,122,Breath rejected; segment too short.
+908.2,DeviceError,197,Error Code: 197
+908.4,DeviceError,209,Error Code: 209
+908.4,DeviceError,209,Error Code: 209
+914.6,DeviceError,209,Error Code: 209
+927.4,DeviceError,209,Error Code: 209
+931.3,DeviceError,209,Error Code: 209
+932.1,DeviceError,168,Error Code: 168
+939.4,DeviceError,209,Error Code: 209
+939.5,DeviceError,209,Error Code: 209
+1030.1,DeviceError,197,Error Code: 197
+1070.6,DeviceError,122,Breath rejected; segment too short.
+1070.6,DeviceError,209,Error Code: 209
+1070.6,DeviceError,122,Breath rejected; segment too short.
+1099.6,DeviceError,209,Error Code: 209
+1104.4,SessionPause,1252,
+1104.4,SessionRecording,1253,
+1104.5,DeviceError,209,Error Code: 209
+1106.1,DeviceError,209,Error Code: 209
+1107.5,DeviceError,209,Error Code: 209
+1108.4,DeviceError,191,Error Code: 191
+1125.6,DeviceError,197,Error Code: 197
+1149.1,DeviceError,197,Error Code: 197
+1160.2,DeviceError,209,Error Code: 209
+1185,DeviceError,209,Error Code: 209
+1203.9,DeviceError,209,Error Code: 209
+1223.4,DeviceError,122,Breath rejected; segment too short.
+1223.4,DeviceError,209,Error Code: 209
+1223.4,DeviceError,122,Breath rejected; segment too short.
+1260.9,DeviceError,209,Error Code: 209
+1261.7,DeviceError,191,Error Code: 191
+1275.9,DeviceError,209,Error Code: 209
+1277.3,DeviceError,191,Error Code: 191
+1283.4,DeviceError,209,Error Code: 209
+1284.7,DeviceError,209,Error Code: 209
+1284.7,DeviceError,209,Error Code: 209
+1285.5,DeviceError,168,Error Code: 168
+1294.6,DeviceError,209,Error Code: 209
+1294.7,DeviceError,209,Error Code: 209
+1294.8,DeviceError,168,Error Code: 168
+1295,DeviceError,168,Error Code: 168
+1295.1,DeviceError,168,Error Code: 168
+1295.7,DeviceError,168,Error Code: 168
+1298,DeviceError,191,Error Code: 191
+1300,DeviceError,168,Error Code: 168
+1302.3,DeviceError,209,Error Code: 209
+1302.4,DeviceError,209,Error Code: 209
+1302.9,DeviceError,168,Error Code: 168
+1302.9,DeviceError,168,Error Code: 168
+1303.2,DeviceError,168,Error Code: 168
+1303.4,DeviceError,168,Error Code: 168
+1303.4,DeviceError,168,Error Code: 168
+1303.5,DeviceError,168,Error Code: 168
+1303.9,DeviceError,168,Error Code: 168
+1303.9,DeviceError,168,Error Code: 168
+1304,DeviceError,168,Error Code: 168
+1304.1,DeviceError,168,Error Code: 168
+1304.2,DeviceError,168,Error Code: 168
+1304.3,DeviceError,168,Error Code: 168
+1304.5,DeviceError,168,Error Code: 168
+1305.5,DeviceError,121,Breath rejected; too jittery.
+1355,DeviceError,149,Error Code: 149

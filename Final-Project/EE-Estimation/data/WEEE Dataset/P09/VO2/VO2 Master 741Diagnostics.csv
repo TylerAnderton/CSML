@@ -1,0 +1,330 @@
+Time[s],Error[code],Description
+-155.8,129,Breath rejected; VO2 out of range.
+-154.5,168,Error Code: 168
+-154.5,168,Error Code: 168
+-154.5,168,Error Code: 168
+-153.4,168,Error Code: 168
+-150.2,196,Error Code: 196
+-113.1,168,Error Code: 168
+-111.4,197,Error Code: 197
+-108.9,53,User piece too big.
+-101.2,209,Error Code: 209
+-94,197,Error Code: 197
+-25.2,168,Error Code: 168
+-25.2,168,Error Code: 168
+114.8,168,Error Code: 168
+117.2,168,Error Code: 168
+118.7,168,Error Code: 168
+119.5,168,Error Code: 168
+120.3,168,Error Code: 168
+120.3,192,Error Code: 192
+120.8,168,Error Code: 168
+121.3,192,Error Code: 192
+121.3,168,Error Code: 168
+122,192,Error Code: 192
+122.1,184,Error Code: 184
+136.9,168,Error Code: 168
+137.4,53,User piece too big.
+301,168,Error Code: 168
+316.3,168,Error Code: 168
+316.5,168,Error Code: 168
+316.9,168,Error Code: 168
+317.6,168,Error Code: 168
+318.3,168,Error Code: 168
+318.5,168,Error Code: 168
+318.9,168,Error Code: 168
+319,168,Error Code: 168
+319.3,168,Error Code: 168
+319.5,168,Error Code: 168
+320,168,Error Code: 168
+320.3,168,Error Code: 168
+320.5,192,Error Code: 192
+320.8,184,Error Code: 184
+360.9,53,User piece too big.
+431.3,168,Error Code: 168
+431.8,168,Error Code: 168
+431.9,168,Error Code: 168
+432.4,168,Error Code: 168
+432.5,168,Error Code: 168
+432.6,168,Error Code: 168
+434,168,Error Code: 168
+434.1,168,Error Code: 168
+434.6,168,Error Code: 168
+434.7,168,Error Code: 168
+436.5,121,Breath rejected; too jittery.
+493.6,53,User piece too big.
+527.3,53,User piece too big.
+582.2,193,Error Code: 193
+582.3,184,Error Code: 184
+607.5,209,Error Code: 209
+607.5,209,Error Code: 209
+607.5,191,Error Code: 191
+607.5,209,Error Code: 209
+607.5,209,Error Code: 209
+607.5,197,Error Code: 197
+607.5,209,Error Code: 209
+607.5,197,Error Code: 197
+607.5,197,Error Code: 197
+607.5,209,Error Code: 209
+607.5,197,Error Code: 197
+618.9,209,Error Code: 209
+633.6,209,Error Code: 209
+649.1,209,Error Code: 209
+664,209,Error Code: 209
+664.2,122,Breath rejected; segment too short.
+664.3,122,Breath rejected; segment too short.
+685.7,122,Breath rejected; segment too short.
+740,209,Error Code: 209
+740,122,Breath rejected; segment too short.
+740.1,122,Breath rejected; segment too short.
+743.4,209,Error Code: 209
+758.8,197,Error Code: 197
+927.9,209,Error Code: 209
+937.6,209,Error Code: 209
+937.6,191,Error Code: 191
+937.6,209,Error Code: 209
+937.6,197,Error Code: 197
+937.6,197,Error Code: 197
+941.4,209,Error Code: 209
+961.9,197,Error Code: 197
+978.9,197,Error Code: 197
+982.7,209,Error Code: 209
+1152.7,122,Breath rejected; segment too short.
+1201,209,Error Code: 209
+1201,168,Error Code: 168
+1201,168,Error Code: 168
+1201,168,Error Code: 168
+1201,168,Error Code: 168
+1201,122,Breath rejected; segment too short.
+1201,209,Error Code: 209
+1203.8,209,Error Code: 209
+1204.1,209,Error Code: 209
+1205.6,191,Error Code: 191
+1206.6,209,Error Code: 209
+1208.9,56,Breathing less than valve trigger.
+1246.7,209,Error Code: 209
+1248.1,191,Error Code: 191
+1282.7,73,Error Code: 73
+1285.9,73,Error Code: 73
+1289.2,73,Error Code: 73
+1310.4,73,Error Code: 73
+1326.3,73,Error Code: 73
+1332.6,73,Error Code: 73
+1334.8,73,Error Code: 73
+1336.7,73,Error Code: 73
+1341,73,Error Code: 73
+1349,73,Error Code: 73
+1350.9,73,Error Code: 73
+1366.3,73,Error Code: 73
+1384,73,Error Code: 73
+1386.2,73,Error Code: 73
+1396.4,73,Error Code: 73
+1398.5,73,Error Code: 73
+1401.6,73,Error Code: 73
+1404.1,73,Error Code: 73
+1405.9,73,Error Code: 73
+1413.3,73,Error Code: 73
+1418.5,73,Error Code: 73
+1426.6,73,Error Code: 73
+1430.2,73,Error Code: 73
+1436.5,73,Error Code: 73
+1441.8,73,Error Code: 73
+1445,73,Error Code: 73
+1447.7,73,Error Code: 73
+1449.8,73,Error Code: 73
+1452.3,73,Error Code: 73
+1454,73,Error Code: 73
+1457.5,73,Error Code: 73
+1459.2,73,Error Code: 73
+1461.2,73,Error Code: 73
+1464.1,73,Error Code: 73
+1466.9,73,Error Code: 73
+1468.7,73,Error Code: 73
+1470.1,73,Error Code: 73
+1471.7,73,Error Code: 73
+1473.2,73,Error Code: 73
+1474.7,73,Error Code: 73
+1476,73,Error Code: 73
+1477.7,73,Error Code: 73
+1478.9,73,Error Code: 73
+1479.8,73,Error Code: 73
+1484,73,Error Code: 73
+1485.8,73,Error Code: 73
+1487.5,73,Error Code: 73
+1490,73,Error Code: 73
+1491.9,73,Error Code: 73
+1493.5,73,Error Code: 73
+1495.5,73,Error Code: 73
+1497.5,73,Error Code: 73
+1499.8,73,Error Code: 73
+1503.1,73,Error Code: 73
+1505,73,Error Code: 73
+1508.6,73,Error Code: 73
+1511.6,73,Error Code: 73
+1514.1,73,Error Code: 73
+1516.2,73,Error Code: 73
+1517.8,73,Error Code: 73
+1519.4,73,Error Code: 73
+1524.8,73,Error Code: 73
+1527.1,73,Error Code: 73
+1529.9,73,Error Code: 73
+1535.5,73,Error Code: 73
+1537.2,73,Error Code: 73
+1540.8,73,Error Code: 73
+1542.2,73,Error Code: 73
+1546.2,73,Error Code: 73
+1548.3,73,Error Code: 73
+1550.1,52,User piece too small.
+1550.2,73,Error Code: 73
+1551.5,73,Error Code: 73
+1553,73,Error Code: 73
+1554.4,52,User piece too small.
+1554.4,73,Error Code: 73
+1555.8,73,Error Code: 73
+1557.8,73,Error Code: 73
+1559.6,52,User piece too small.
+1559.6,73,Error Code: 73
+1561,73,Error Code: 73
+1563,73,Error Code: 73
+1567.1,73,Error Code: 73
+1568.6,73,Error Code: 73
+1570,73,Error Code: 73
+1571.6,73,Error Code: 73
+1573,73,Error Code: 73
+1574.6,52,User piece too small.
+1574.6,73,Error Code: 73
+1576,73,Error Code: 73
+1577.4,73,Error Code: 73
+1579.1,73,Error Code: 73
+1580.3,73,Error Code: 73
+1581.8,73,Error Code: 73
+1584.4,73,Error Code: 73
+1586,73,Error Code: 73
+1587.5,73,Error Code: 73
+1589.1,73,Error Code: 73
+1590.3,73,Error Code: 73
+1592.1,73,Error Code: 73
+1593.5,73,Error Code: 73
+1595.5,52,User piece too small.
+1595.5,73,Error Code: 73
+1596.8,73,Error Code: 73
+1598.2,73,Error Code: 73
+1599.8,52,User piece too small.
+1599.8,73,Error Code: 73
+1601.5,73,Error Code: 73
+1602.9,73,Error Code: 73
+1604.5,73,Error Code: 73
+1605.7,73,Error Code: 73
+1607.7,73,Error Code: 73
+1609.1,73,Error Code: 73
+1610.7,73,Error Code: 73
+1612.2,52,User piece too small.
+1612.2,73,Error Code: 73
+1613.8,73,Error Code: 73
+1615.1,73,Error Code: 73
+1616.6,73,Error Code: 73
+1618.1,73,Error Code: 73
+1619.6,52,User piece too small.
+1619.6,73,Error Code: 73
+1625.2,73,Error Code: 73
+1626.6,73,Error Code: 73
+1628,52,User piece too small.
+1628,73,Error Code: 73
+1629.6,73,Error Code: 73
+1631,73,Error Code: 73
+1632.6,73,Error Code: 73
+1633.8,73,Error Code: 73
+1635.3,73,Error Code: 73
+1636.9,73,Error Code: 73
+1638.4,73,Error Code: 73
+1639.9,73,Error Code: 73
+1641.5,73,Error Code: 73
+1642.8,73,Error Code: 73
+1644.5,73,Error Code: 73
+1646,73,Error Code: 73
+1647.5,73,Error Code: 73
+1648.7,73,Error Code: 73
+1650.2,73,Error Code: 73
+1652.1,73,Error Code: 73
+1653.4,73,Error Code: 73
+1655.1,52,User piece too small.
+1655.1,73,Error Code: 73
+1656.6,73,Error Code: 73
+1658,73,Error Code: 73
+1659.6,73,Error Code: 73
+1661.1,73,Error Code: 73
+1662.6,73,Error Code: 73
+1664.8,73,Error Code: 73
+1666.3,73,Error Code: 73
+1667.6,73,Error Code: 73
+1669.3,73,Error Code: 73
+1670.8,52,User piece too small.
+1670.8,73,Error Code: 73
+1672.2,73,Error Code: 73
+1673.9,73,Error Code: 73
+1675.6,73,Error Code: 73
+1676.9,52,User piece too small.
+1676.9,73,Error Code: 73
+1680.5,73,Error Code: 73
+1681.4,209,Error Code: 209
+1681.5,122,Breath rejected; segment too short.
+1683,73,Error Code: 73
+1684.9,73,Error Code: 73
+1686.7,52,User piece too small.
+1686.7,73,Error Code: 73
+1688.2,73,Error Code: 73
+1689.7,73,Error Code: 73
+1691,73,Error Code: 73
+1692.7,73,Error Code: 73
+1694.3,73,Error Code: 73
+1695.7,52,User piece too small.
+1695.8,73,Error Code: 73
+1697.3,73,Error Code: 73
+1699,73,Error Code: 73
+1700.4,73,Error Code: 73
+1702,73,Error Code: 73
+1703.5,73,Error Code: 73
+1705.2,73,Error Code: 73
+1706.6,73,Error Code: 73
+1708.2,73,Error Code: 73
+1709.6,73,Error Code: 73
+1711.3,73,Error Code: 73
+1712.9,52,User piece too small.
+1712.9,73,Error Code: 73
+1714.4,73,Error Code: 73
+1716,73,Error Code: 73
+1717.3,73,Error Code: 73
+1718.9,73,Error Code: 73
+1720.4,73,Error Code: 73
+1722,73,Error Code: 73
+1723.4,73,Error Code: 73
+1725,73,Error Code: 73
+1727.1,73,Error Code: 73
+1728.3,73,Error Code: 73
+1729.8,73,Error Code: 73
+1731.6,73,Error Code: 73
+1733,52,User piece too small.
+1733,73,Error Code: 73
+1734.5,73,Error Code: 73
+1735.9,73,Error Code: 73
+1737.4,73,Error Code: 73
+1739.2,73,Error Code: 73
+1740.6,73,Error Code: 73
+1741.9,73,Error Code: 73
+1743.6,73,Error Code: 73
+1745.2,73,Error Code: 73
+1746.7,73,Error Code: 73
+1748.2,73,Error Code: 73
+1749.6,73,Error Code: 73
+1751,73,Error Code: 73
+1752.8,73,Error Code: 73
+1754.2,73,Error Code: 73
+1755.6,52,User piece too small.
+1755.6,73,Error Code: 73
+1757.3,73,Error Code: 73
+1758.8,73,Error Code: 73
+1760.2,73,Error Code: 73
+1761.7,73,Error Code: 73
+1763,73,Error Code: 73
+1764.4,73,Error Code: 73
+1789.1,192,Error Code: 192

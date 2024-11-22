@@ -1,0 +1,420 @@
+Time[s],Error[code],Description
+-137.3,190,Error Code: 190
+-137.3,191,Error Code: 191
+-100.7,197,Error Code: 197
+-89.2,197,Error Code: 197
+-85.8,197,Error Code: 197
+-77.8,197,Error Code: 197
+-61.8,197,Error Code: 197
+-39.3,197,Error Code: 197
+-38.8,209,Error Code: 209
+-38.8,209,Error Code: 209
+-38.5,196,Error Code: 196
+-37.8,209,Error Code: 209
+-37.1,191,Error Code: 191
+-36.1,121,Breath rejected; too jittery.
+-35.7,209,Error Code: 209
+-35,197,Error Code: 197
+-34.7,197,Error Code: 197
+-33.3,197,Error Code: 197
+-32.8,197,Error Code: 197
+-32.3,209,Error Code: 209
+-31.6,168,Error Code: 168
+-31.2,168,Error Code: 168
+-31.2,168,Error Code: 168
+-30.8,168,Error Code: 168
+-30.8,168,Error Code: 168
+-28.5,197,Error Code: 197
+-28.4,122,Breath rejected; segment too short.
+-28.4,209,Error Code: 209
+-26,209,Error Code: 209
+-25.8,209,Error Code: 209
+-25.8,209,Error Code: 209
+-23.2,197,Error Code: 197
+-23.1,122,Breath rejected; segment too short.
+-22.9,209,Error Code: 209
+-22.7,122,Breath rejected; segment too short.
+-21.8,196,Error Code: 196
+-18.3,197,Error Code: 197
+-17.4,209,Error Code: 209
+-15,209,Error Code: 209
+-14.8,122,Breath rejected; segment too short.
+-14.5,122,Breath rejected; segment too short.
+-14.4,209,Error Code: 209
+-11.4,209,Error Code: 209
+-11.2,122,Breath rejected; segment too short.
+-8.4,197,Error Code: 197
+-7.2,197,Error Code: 197
+-6.8,209,Error Code: 209
+-6.5,196,Error Code: 196
+-5.6,209,Error Code: 209
+-5.6,209,Error Code: 209
+-5.5,168,Error Code: 168
+-5.4,168,Error Code: 168
+-1.4,56,Breathing less than valve trigger.
+-1.4,191,Error Code: 191
+-0.1,197,Error Code: 197
+0,56,Breathing less than valve trigger.
+0,122,Breath rejected; segment too short.
+0,209,Error Code: 209
+0,209,Error Code: 209
+0,209,Error Code: 209
+0,209,Error Code: 209
+0,197,Error Code: 197
+0,122,Breath rejected; segment too short.
+0,209,Error Code: 209
+0,196,Error Code: 196
+0,122,Breath rejected; segment too short.
+0,209,Error Code: 209
+0,209,Error Code: 209
+0,197,Error Code: 197
+0,122,Breath rejected; segment too short.
+0,191,Error Code: 191
+0,209,Error Code: 209
+0,122,Breath rejected; segment too short.
+0,209,Error Code: 209
+0,197,Error Code: 197
+0,122,Breath rejected; segment too short.
+0,197,Error Code: 197
+0,209,Error Code: 209
+0,196,Error Code: 196
+0,209,Error Code: 209
+0,209,Error Code: 209
+0,168,Error Code: 168
+0,168,Error Code: 168
+0,197,Error Code: 197
+0,197,Error Code: 197
+195.1,197,Error Code: 197
+196.4,197,Error Code: 197
+198.7,122,Breath rejected; segment too short.
+198.7,209,Error Code: 209
+199,122,Breath rejected; segment too short.
+225.5,197,Error Code: 197
+232.2,197,Error Code: 197
+232.9,209,Error Code: 209
+233.2,197,Error Code: 197
+233.4,122,Breath rejected; segment too short.
+233.4,209,Error Code: 209
+246.3,197,Error Code: 197
+252.7,196,Error Code: 196
+253.1,209,Error Code: 209
+254.4,168,Error Code: 168
+254.6,121,Breath rejected; too jittery.
+254.7,122,Breath rejected; segment too short.
+257,168,Error Code: 168
+257.2,168,Error Code: 168
+259.3,197,Error Code: 197
+261,197,Error Code: 197
+266.2,168,Error Code: 168
+268.4,209,Error Code: 209
+268.6,209,Error Code: 209
+269.3,168,Error Code: 168
+269.6,56,Breathing less than valve trigger.
+269.7,191,Error Code: 191
+274.7,197,Error Code: 197
+283.3,197,Error Code: 197
+300.9,197,Error Code: 197
+300.9,197,Error Code: 197
+302,209,Error Code: 209
+303,168,Error Code: 168
+303.9,191,Error Code: 191
+351.1,197,Error Code: 197
+359.5,197,Error Code: 197
+360.5,196,Error Code: 196
+366.1,197,Error Code: 197
+380.7,209,Error Code: 209
+381.2,196,Error Code: 196
+387.8,197,Error Code: 197
+389.4,197,Error Code: 197
+390.6,53,User piece too big.
+390.6,196,Error Code: 196
+392.9,197,Error Code: 197
+393.4,209,Error Code: 209
+393.4,122,Breath rejected; segment too short.
+394.9,168,Error Code: 168
+395.2,168,Error Code: 168
+400.1,197,Error Code: 197
+400.6,209,Error Code: 209
+400.6,209,Error Code: 209
+414.5,197,Error Code: 197
+440.7,197,Error Code: 197
+477,209,Error Code: 209
+477.1,122,Breath rejected; segment too short.
+477.3,122,Breath rejected; segment too short.
+488.1,197,Error Code: 197
+491.5,196,Error Code: 196
+496.6,197,Error Code: 197
+500.3,197,Error Code: 197
+531.8,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,191,Error Code: 191
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,191,Error Code: 191
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,197,Error Code: 197
+600.7,56,Breathing less than valve trigger.
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,191,Error Code: 191
+600.7,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,122,Breath rejected; segment too short.
+600.7,122,Breath rejected; segment too short.
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,209,Error Code: 209
+600.7,196,Error Code: 196
+600.7,122,Breath rejected; segment too short.
+600.7,209,Error Code: 209
+600.7,191,Error Code: 191
+600.7,197,Error Code: 197
+600.7,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,122,Breath rejected; segment too short.
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,191,Error Code: 191
+600.7,197,Error Code: 197
+600.7,168,Error Code: 168
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,197,Error Code: 197
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,56,Breathing less than valve trigger.
+600.7,191,Error Code: 191
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,122,Breath rejected; segment too short.
+600.7,122,Breath rejected; segment too short.
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,197,Error Code: 197
+600.7,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,197,Error Code: 197
+600.7,122,Breath rejected; segment too short.
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,168,Error Code: 168
+600.7,122,Breath rejected; segment too short.
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,168,Error Code: 168
+600.7,209,Error Code: 209
+600.7,209,Error Code: 209
+600.7,197,Error Code: 197
+600.7,197,Error Code: 197
+600.7,209,Error Code: 209
+600.7,197,Error Code: 197
+600.7,197,Error Code: 197
+600.7,197,Error Code: 197
+600.7,168,Error Code: 168
+600.7,209,Error Code: 209
+600.7,122,Breath rejected; segment too short.
+600.7,168,Error Code: 168
+608.3,197,Error Code: 197
+848.1,197,Error Code: 197
+848.3,122,Breath rejected; segment too short.
+901.3,209,Error Code: 209
+901.3,122,Breath rejected; segment too short.
+901.3,196,Error Code: 196
+901.3,209,Error Code: 209
+901.3,122,Breath rejected; segment too short.
+901.3,122,Breath rejected; segment too short.
+901.3,209,Error Code: 209
+901.3,168,Error Code: 168
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,191,Error Code: 191
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,191,Error Code: 191
+901.3,209,Error Code: 209
+901.3,122,Breath rejected; segment too short.
+901.3,209,Error Code: 209
+901.3,122,Breath rejected; segment too short.
+901.3,122,Breath rejected; segment too short.
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,191,Error Code: 191
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,191,Error Code: 191
+901.3,197,Error Code: 197
+901.3,209,Error Code: 209
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,168,Error Code: 168
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+901.3,209,Error Code: 209
+974.3,209,Error Code: 209
+1201.4,209,Error Code: 209
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,209,Error Code: 209
+1201.4,209,Error Code: 209
+1201.4,122,Breath rejected; segment too short.
+1201.4,122,Breath rejected; segment too short.
+1201.4,209,Error Code: 209
+1201.4,209,Error Code: 209
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,168,Error Code: 168
+1201.4,209,Error Code: 209
+1201.4,191,Error Code: 191
+1201.4,56,Breathing less than valve trigger.
+1201.4,209,Error Code: 209
+1201.4,209,Error Code: 209
+1207.9,209,Error Code: 209
+1231.3,209,Error Code: 209
+1232.6,191,Error Code: 191
+1247.1,209,Error Code: 209
+1329.4,209,Error Code: 209
+1329.5,209,Error Code: 209
+1352.5,209,Error Code: 209
+1382.2,209,Error Code: 209
+1383.2,191,Error Code: 191
+1436,209,Error Code: 209
+1436.9,191,Error Code: 191
+1446.4,209,Error Code: 209
+1446.5,209,Error Code: 209
+1446.5,209,Error Code: 209
+1447.9,191,Error Code: 191
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,191,Error Code: 191
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,168,Error Code: 168
+1467.5,197,Error Code: 197
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,168,Error Code: 168
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,191,Error Code: 191
+1467.5,122,Breath rejected; segment too short.
+1467.5,209,Error Code: 209
+1467.5,122,Breath rejected; segment too short.
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,168,Error Code: 168
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,209,Error Code: 209
+1467.5,191,Error Code: 191
+1467.5,209,Error Code: 209
+1467.5,191,Error Code: 191
+1481.2,168,Error Code: 168
+1620.5,209,Error Code: 209
+1622,191,Error Code: 191
+1652.8,209,Error Code: 209
+1653.7,191,Error Code: 191
+1664.3,209,Error Code: 209
+1702.2,209,Error Code: 209
+1702.2,209,Error Code: 209
+1703.6,191,Error Code: 191
+1764.4,209,Error Code: 209
+1764.4,209,Error Code: 209
+1764.4,209,Error Code: 209
+1764.4,209,Error Code: 209
+1764.4,168,Error Code: 168

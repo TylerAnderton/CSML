@@ -1,0 +1,42 @@
+Workout Name: P17
+Time Zone: Europe/London
+Workout Date: 12/3/2021
+Start Time: 10:56:44 AM
+Elapsed Time: 17:36
+Notes: 
+
+
+Athlete Name: P12
+Date of Birth: 1994 October 07 
+Age: 27
+Height: 168 cm
+Weight: 63 kg
+Sex: Male
+
+Analyzer User Piece: Resting
+Analyzer Mask Size: Small
+Data Average Period: 1s
+
+VO2 Master Manager Version: 0.22.9 
+Reporting Version: 1.4.8.0
+
+Recorded With App Version: 0.22.9
+System: Android 12, Pixel 4
+
+Devices:
+1. VO2 Master 741 (741)
+     (1.5.0 E502000000043EEE VO2 Master Health Sensors Inc.)
+     - Rf
+     - Tv
+     - VO2
+     - VO2
+     - FeO2
+     - Ve
+     - Ve/VO2
+     - Pressure
+     - Temp
+     - HUM
+2. TICKR 2559 (210911561)
+     (  Wahoo Fitness)
+     - HR
+     - RR

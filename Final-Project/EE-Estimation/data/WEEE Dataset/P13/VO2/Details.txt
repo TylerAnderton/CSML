@@ -1,0 +1,42 @@
+Workout Name: P13
+Time Zone: Europe/London
+Workout Date: 11/30/2021
+Start Time: 6:30:51 PM
+Elapsed Time: 30:01
+Notes: 
+
+
+Athlete Name: P13
+Date of Birth: 2021 November 30 
+Age: 0
+Height: 173 cm
+Weight: 71.2 kg
+Sex: Male
+
+Analyzer User Piece: Resting
+Analyzer Mask Size: Small
+Data Average Period: 1s
+
+VO2 Master Manager Version: 0.22.9 
+Reporting Version: 1.4.8.0
+
+Recorded With App Version: 0.22.9
+System: Android 12, Pixel 4
+
+Devices:
+1. VO2 Master 741 (741)
+     (1.5.0 E502000000043EEE VO2 Master Health Sensors Inc.)
+     - Rf
+     - Tv
+     - VO2
+     - VO2
+     - FeO2
+     - Ve
+     - Ve/VO2
+     - Pressure
+     - Temp
+     - HUM
+2. TICKR 2559 (210911561)
+     (  Wahoo Fitness)
+     - HR
+     - RR

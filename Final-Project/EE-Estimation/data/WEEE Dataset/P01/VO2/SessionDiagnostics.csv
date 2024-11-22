@@ -1,0 +1,59 @@
+Time[s],Type[type],Value[value],Details
+-179.7,DeviceError,197,Error Code: 197
+-177.6,DeviceError,197,Error Code: 197
+-177.2,DeviceError,209,Error Code: 209
+-176.9,DeviceError,196,Error Code: 196
+-171.1,DeviceError,197,Error Code: 197
+-130.6,DeviceError,197,Error Code: 197
+-97.4,DeviceError,197,Error Code: 197
+-28.3,DeviceError,197,Error Code: 197
+-23.4,DeviceError,56,Breathing less than valve trigger.
+-17,DeviceError,209,Error Code: 209
+-16,DeviceError,197,Error Code: 197
+-4.1,DeviceError,197,Error Code: 197
+0,SessionRecording,0,
+298.1,DeviceError,197,Error Code: 197
+307.1,SessionPause,307,
+307.1,SessionRecording,309,
+311.8,DeviceError,197,Error Code: 197
+457.5,DeviceError,197,Error Code: 197
+466.2,DeviceError,197,Error Code: 197
+494.2,DeviceError,197,Error Code: 197
+576.9,DeviceError,197,Error Code: 197
+603.4,DeviceError,209,Error Code: 209
+603.7,DeviceError,197,Error Code: 197
+604.3,SessionPause,606,
+604.3,DeviceError,197,Error Code: 197
+604.3,DeviceError,197,Error Code: 197
+604.3,DeviceError,209,Error Code: 209
+604.3,DeviceError,122,Breath rejected; segment too short.
+604.3,DeviceError,196,Error Code: 196
+604.3,DeviceError,209,Error Code: 209
+604.3,DeviceError,197,Error Code: 197
+604.3,DeviceError,197,Error Code: 197
+604.3,DeviceError,209,Error Code: 209
+604.3,SessionRecording,626,
+606.1,DeviceError,191,Error Code: 191
+630.7,DeviceError,197,Error Code: 197
+764.3,DeviceError,197,Error Code: 197
+770.5,DeviceError,122,Breath rejected; segment too short.
+798.9,DeviceError,122,Breath rejected; segment too short.
+852.8,DeviceError,197,Error Code: 197
+903.6,SessionPause,926,
+903.6,SessionRecording,927,
+906.2,DeviceError,209,Error Code: 209
+908.8,DeviceError,191,Error Code: 191
+947.1,DeviceError,197,Error Code: 197
+949.4,DeviceError,197,Error Code: 197
+1003.1,DeviceError,209,Error Code: 209
+1007.5,DeviceError,197,Error Code: 197
+1022,DeviceError,197,Error Code: 197
+1165.1,DeviceError,197,Error Code: 197
+1169.2,DeviceError,209,Error Code: 209
+1204.5,SessionPause,1228,
+1204.5,SessionRecording,1279,
+1284.4,DeviceError,209,Error Code: 209
+1286.1,DeviceError,191,Error Code: 191
+1498.8,SessionPause,1574,
+1498.8,SessionRecording,1598,
+1802.3,SessionComplete,0,

@@ -1,0 +1,118 @@
+Time[s],Type[type],Value[value],Details
+-164.9,DeviceError,197,Error Code: 197
+-164.8,DeviceError,197,Error Code: 197
+-162.8,DeviceError,53,User piece too big.
+-162.8,DeviceError,197,Error Code: 197
+-158.7,DeviceError,209,Error Code: 209
+-154.9,DeviceError,191,Error Code: 191
+-154.2,DeviceError,209,Error Code: 209
+-152.8,DeviceError,197,Error Code: 197
+-148.7,DeviceError,122,Breath rejected; segment too short.
+-148.7,DeviceError,209,Error Code: 209
+-148.7,DeviceError,209,Error Code: 209
+-146.7,DeviceError,168,Error Code: 168
+-146.5,DeviceError,168,Error Code: 168
+-146.3,DeviceError,168,Error Code: 168
+-106.7,DeviceError,197,Error Code: 197
+-98.3,DeviceError,209,Error Code: 209
+-95.7,DeviceError,197,Error Code: 197
+-83.8,DeviceError,209,Error Code: 209
+-81.9,DeviceError,197,Error Code: 197
+-73.6,DeviceError,197,Error Code: 197
+-70.8,DeviceError,209,Error Code: 209
+-68.9,DeviceError,197,Error Code: 197
+-64.9,DeviceError,197,Error Code: 197
+-61.6,DeviceError,197,Error Code: 197
+-59,DeviceError,209,Error Code: 209
+-58.9,DeviceError,122,Breath rejected; segment too short.
+-57.8,DeviceError,197,Error Code: 197
+-55.6,DeviceError,197,Error Code: 197
+-55.1,DeviceError,209,Error Code: 209
+-54.9,DeviceError,122,Breath rejected; segment too short.
+-43.7,DeviceError,197,Error Code: 197
+0,DeviceError,197,Error Code: 197
+0,DeviceError,122,Breath rejected; segment too short.
+0,DeviceError,168,Error Code: 168
+0,DeviceError,168,Error Code: 168
+0,DeviceError,209,Error Code: 209
+0,DeviceError,209,Error Code: 209
+0,DeviceError,122,Breath rejected; segment too short.
+0,DeviceError,197,Error Code: 197
+0,DeviceError,191,Error Code: 191
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,197,Error Code: 197
+0,DeviceError,53,User piece too big.
+0,DeviceError,197,Error Code: 197
+0,DeviceError,197,Error Code: 197
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,209,Error Code: 209
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,197,Error Code: 197
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,197,Error Code: 197
+0,DeviceError,197,Error Code: 197
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,122,Breath rejected; segment too short.
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,168,Error Code: 168
+0,SessionRecording,0,
+300.7,SessionPause,300,
+300.7,DeviceError,209,Error Code: 209
+300.7,SessionRecording,309,
+384.5,DeviceError,209,Error Code: 209
+386.4,DeviceError,191,Error Code: 191
+575.2,DeviceError,209,Error Code: 209
+582,DeviceError,168,Error Code: 168
+582.1,DeviceError,168,Error Code: 168
+586,DeviceError,197,Error Code: 197
+603.9,SessionPause,612,
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,197,Error Code: 197
+603.9,DeviceError,197,Error Code: 197
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,209,Error Code: 209
+603.9,DeviceError,191,Error Code: 191
+603.9,DeviceError,209,Error Code: 209
+603.9,DeviceError,191,Error Code: 191
+603.9,DeviceError,209,Error Code: 209
+603.9,DeviceError,209,Error Code: 209
+603.9,DeviceError,168,Error Code: 168
+603.9,DeviceError,168,Error Code: 168
+603.9,SessionRecording,706,
+611.6,DeviceError,168,Error Code: 168
+611.9,DeviceError,209,Error Code: 209
+613.7,DeviceError,191,Error Code: 191
+616,DeviceError,209,Error Code: 209
+617.5,DeviceError,191,Error Code: 191
+618.4,DeviceError,209,Error Code: 209
+901.1,SessionPause,1003,
+901.1,DeviceError,209,Error Code: 209
+901.1,DeviceError,209,Error Code: 209
+901.1,DeviceError,168,Error Code: 168
+901.1,DeviceError,168,Error Code: 168
+901.1,DeviceError,168,Error Code: 168
+901.1,SessionRecording,1030,
+1131,DeviceError,59,Breathing during ambient calibration. Hold your breath for 5 seconds.
+1131,DeviceError,188,Error Code: 188
+1131,DeviceError,59,Breathing during ambient calibration. Hold your breath for 5 seconds.
+1131,DeviceError,59,Breathing during ambient calibration. Hold your breath for 5 seconds.
+1131,SessionComplete,0,

@@ -1,0 +1,42 @@
+Workout Name: P02_02
+Time Zone: Europe/London
+Workout Date: 11/25/2021
+Start Time: 5:30:49 PM
+Elapsed Time: 26:38
+Notes: 
+
+
+Athlete Name: P02
+Date of Birth: 1994 December 28 
+Age: 26
+Height: 173 cm
+Weight: 75 kg
+Sex: Male
+
+Analyzer User Piece: Medium
+Analyzer Mask Size: Small
+Data Average Period: 1s
+
+VO2 Master Manager Version: 0.22.9 
+Reporting Version: 1.4.8.0
+
+Recorded With App Version: 0.22.9
+System: Android 12, Pixel 4
+
+Devices:
+1. VO2 Master 741 (741)
+     (1.5.0 E502000000043EEE VO2 Master Health Sensors Inc.)
+     - Rf
+     - Tv
+     - Ve
+     - VO2
+     - FeO2
+     - VO2
+     - Pressure
+     - Temp
+     - HUM
+     - Ve/VO2
+2. TICKR 2559 (210911561)
+     (  Wahoo Fitness)
+     - HR
+     - RR

@@ -1,0 +1,42 @@
+Workout Name: P04
+Time Zone: Europe/London
+Workout Date: 11/26/2021
+Start Time: 6:15:48 PM
+Elapsed Time: 30:20
+Notes: 
+
+
+Athlete Name: P05
+Date of Birth: 1988 July 29 
+Age: 33
+Height: 175 cm
+Weight: 67.5 kg
+Sex: Female
+
+Analyzer User Piece: Resting
+Analyzer Mask Size: Small
+Data Average Period: 1s
+
+VO2 Master Manager Version: 0.22.9 
+Reporting Version: 1.4.8.0
+
+Recorded With App Version: 0.22.9
+System: Android 11, Pixel 4
+
+Devices:
+1. VO2 Master 741 (741)
+     (1.5.0 E502000000043EEE VO2 Master Health Sensors Inc.)
+     - Rf
+     - Tv
+     - Ve
+     - VO2
+     - FeO2
+     - VO2
+     - Ve/VO2
+     - Pressure
+     - Temp
+     - HUM
+2. TICKR 2559 (210911561)
+     (  Wahoo Fitness)
+     - HR
+     - RR

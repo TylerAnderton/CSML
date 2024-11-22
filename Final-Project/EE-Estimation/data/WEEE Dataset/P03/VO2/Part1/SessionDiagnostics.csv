@@ -1,0 +1,72 @@
+Time[s],Type[type],Value[value],Details
+-163,DeviceError,168,Error Code: 168
+-150.4,DeviceError,168,Error Code: 168
+-150.3,DeviceError,168,Error Code: 168
+-150.1,DeviceError,168,Error Code: 168
+-150,DeviceError,168,Error Code: 168
+-141.7,DeviceError,168,Error Code: 168
+-141.3,DeviceError,197,Error Code: 197
+-119.4,DeviceError,197,Error Code: 197
+-110.9,DeviceError,168,Error Code: 168
+-110.8,DeviceError,168,Error Code: 168
+-109.2,DeviceError,122,Breath rejected; segment too short.
+-107.6,DeviceError,56,Breathing less than valve trigger.
+-86.3,DeviceError,197,Error Code: 197
+-84.9,DeviceError,197,Error Code: 197
+-83.9,DeviceError,168,Error Code: 168
+-83.2,DeviceError,168,Error Code: 168
+-83.1,DeviceError,168,Error Code: 168
+-82.7,DeviceError,168,Error Code: 168
+-78,DeviceError,168,Error Code: 168
+-77.9,DeviceError,168,Error Code: 168
+-76.5,DeviceError,168,Error Code: 168
+-76.5,DeviceError,168,Error Code: 168
+-76.5,DeviceError,168,Error Code: 168
+-75.9,DeviceError,168,Error Code: 168
+-57.8,DeviceError,190,Error Code: 190
+-57.8,DeviceError,191,Error Code: 191
+-56.2,DeviceError,168,Error Code: 168
+-56,DeviceError,168,Error Code: 168
+-56,DeviceError,168,Error Code: 168
+-54.7,DeviceError,168,Error Code: 168
+-54.6,DeviceError,168,Error Code: 168
+-52,DeviceError,209,Error Code: 209
+-51,DeviceError,197,Error Code: 197
+-39.3,DeviceError,209,Error Code: 209
+-37.8,DeviceError,197,Error Code: 197
+-34,DeviceError,197,Error Code: 197
+-20.6,DeviceError,209,Error Code: 209
+-16.2,DeviceError,209,Error Code: 209
+-1.7,DeviceError,209,Error Code: 209
+-0.6,DeviceError,197,Error Code: 197
+-0.6,DeviceError,209,Error Code: 209
+-0.4,DeviceError,209,Error Code: 209
+0,DeviceError,209,Error Code: 209
+0,DeviceError,197,Error Code: 197
+0,DeviceError,209,Error Code: 209
+0,DeviceError,209,Error Code: 209
+0,SessionRecording,0,
+0.3,DeviceError,168,Error Code: 168
+0.6,DeviceError,168,Error Code: 168
+0.7,DeviceError,168,Error Code: 168
+1.1,DeviceError,168,Error Code: 168
+106.7,DeviceError,53,User piece too big.
+151.1,DeviceError,53,User piece too big.
+166.6,DeviceError,209,Error Code: 209
+170.4,DeviceError,191,Error Code: 191
+226.6,DeviceError,197,Error Code: 197
+354.1,SessionPause,354,
+354.1,SessionRecording,355,
+354.3,DeviceError,209,Error Code: 209
+359.2,DeviceError,191,Error Code: 191
+361.7,DeviceError,53,User piece too big.
+361.7,DeviceError,197,Error Code: 197
+508.8,DeviceError,197,Error Code: 197
+511.5,DeviceError,197,Error Code: 197
+514.3,DeviceError,53,User piece too big.
+514.4,DeviceError,197,Error Code: 197
+568,SessionPause,569,
+568,DeviceError,53,User piece too big.
+568,SessionRecording,586,
+580.3,DeviceError,197,Error Code: 197
+626.8,SessionComplete,0,

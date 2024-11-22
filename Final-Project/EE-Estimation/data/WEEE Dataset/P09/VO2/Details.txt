@@ -1,0 +1,42 @@
+Workout Name: P09
+Time Zone: Europe/London
+Workout Date: 11/30/2021
+Start Time: 9:19:12 AM
+Elapsed Time: 30:06
+Notes: 
+
+
+Athlete Name: P09
+Date of Birth: 1994 July 05 
+Age: 27
+Height: 177 cm
+Weight: 76 kg
+Sex: Male
+
+Analyzer User Piece: Resting
+Analyzer Mask Size: Small
+Data Average Period: 1s
+
+VO2 Master Manager Version: 0.22.9 
+Reporting Version: 1.4.8.0
+
+Recorded With App Version: 0.22.9
+System: Android 11, Pixel 4
+
+Devices:
+1. TICKR 2559 (210911561)
+     (  Wahoo Fitness)
+     - HR
+     - RR
+2. VO2 Master 741 (741)
+     (1.5.0 E502000000043EEE VO2 Master Health Sensors Inc.)
+     - Rf
+     - Tv
+     - Ve
+     - VO2
+     - FeO2
+     - VO2
+     - Ve/VO2
+     - Pressure
+     - Temp
+     - HUM

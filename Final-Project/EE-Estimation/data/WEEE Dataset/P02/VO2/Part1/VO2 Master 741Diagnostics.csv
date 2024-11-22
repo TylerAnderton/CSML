@@ -1,0 +1,54 @@
+Time[s],Error[code],Description
+-176.6,53,User piece too big.
+-155.3,168,Error Code: 168
+-155.1,121,Breath rejected; too jittery.
+-125.3,184,Error Code: 184
+-63.7,168,Error Code: 168
+-47.5,209,Error Code: 209
+-44.7,168,Error Code: 168
+0,168,Error Code: 168
+0,209,Error Code: 209
+0,168,Error Code: 168
+131.7,197,Error Code: 197
+149,168,Error Code: 168
+149,168,Error Code: 168
+157.5,209,Error Code: 209
+186.5,197,Error Code: 197
+242.4,53,User piece too big.
+252,168,Error Code: 168
+252.4,168,Error Code: 168
+253.3,168,Error Code: 168
+289,64,Ventilation out of range.
+479.2,122,Breath rejected; segment too short.
+603.2,168,Error Code: 168
+603.2,168,Error Code: 168
+603.2,168,Error Code: 168
+603.2,168,Error Code: 168
+603.2,168,Error Code: 168
+603.2,56,Breathing less than valve trigger.
+603.2,197,Error Code: 197
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,192,Error Code: 192
+603.2,168,Error Code: 168
+603.2,53,User piece too big.
+603.2,197,Error Code: 197
+603.2,197,Error Code: 197
+603.2,197,Error Code: 197
+603.2,53,User piece too big.
+603.2,197,Error Code: 197
+603.2,197,Error Code: 197
+603.2,197,Error Code: 197
+603.2,53,User piece too big.
+603.2,197,Error Code: 197
+605.3,53,User piece too big.
+605.3,197,Error Code: 197
+605.3,197,Error Code: 197
+605.3,64,Ventilation out of range.
