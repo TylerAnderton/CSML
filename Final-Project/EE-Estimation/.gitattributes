@@ -1,0 +1,2 @@
+windows.pkl filter=lfs diff=lfs merge=lfs -text
+data/WEEE[[:space:]]Dataset/processed/windows.pkl filter=lfs diff=lfs merge=lfs -text
