@@ -13,5 +13,7 @@ data/WEEE Dataset/P*/*
 
 !data/WEEE Dataset/processed
 !data/WEEE Dataset/processed/*
+data/WEEE Dataset/processed/windows.pkl
+
 !data/WEEE Dataset/Demographics.csv
 !data/WEEE Dataset/Study_Information.csv
