@@ -1,0 +1,2 @@
+train_mse,val_mse,val_r2,model_name,epoch
+0.47946855810699085,0.33889147903966277,0.7194028711245735,CNNFCNRegressor_conv3_fcn3_fcnw32_lr0.01_batch16_epochs100,38
